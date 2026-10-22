@@ -1,0 +1,655 @@
+Order_ID,Order_Date,Customer_ID,City,Product_ID,Product_Name,Category,Quantity,Unit_Price_PKR,Discount_Rate,Payment_Method,Order_Status
+ORD-10001,2025-11-10,CUST-008,Multan,P002,Keyboard,Electronics,4.0,3200.0,0.1,Card,Completed
+ORD-10002,2025-09-19,CUST-071,Faisalabad,P002,Keyboard,Electronics,3.0,3200.0,0.2,Cash,Returned
+ORD-10003,2025-12-05,CUST-071,Multan,P013,Face Wash,Beauty,3.0,780.0,0.1,Bank Transfer,Completed
+ORD-10004,2025-02-03,CUST-050,Gujranwala,P013,Face Wash,Beauty,3.0,780.0,0.05,Cash,Completed
+ORD-10005,2025-10-04,CUST-064,Islamabad,P013,Face Wash,Beauty,5.0,780.0,0.0,Cash,Completed
+ORD-10006,2025-10-05,CUST-018,Islamabad,P015,Sunscreen,Beauty,3.0,1350.0,0.2,Bank Transfer,Returned
+ORD-10007,2025-09-07,CUST-084,Multan,P008,Storage Box,Home & Kitchen,1.0,1305.0,0.1,Card,Returned
+ORD-10008,2025-01-28,,Peshawar,P015,Sunscreen,Beauty,3.0,1417.5,0.0,Cash,Completed
+ORD-10009,2025-03-24,CUST-051,Multan,P007,Water Bottle,Home & Kitchen,1.0,950.0,0.15,EasyPaisa,Completed
+ORD-10010,2025-02-05,CUST-029,Peshawar,P007,Water Bottle,Home & Kitchen,1.0,950.0,0.15,EasyPaisa,Returned
+ORD-10011,2025-04-16,CUST-022,Multan,P007,Water Bottle,Home & Kitchen,5.0,950.0,0.2,JazzCash,Cancelled
+ORD-10012,2025-10-18,CUST-071,Peshawar,P003,USB-C Hub,Electronics,5.0,5670.0,0.0,JazzCash,Completed
+ORD-10013,2025-06-17,CUST-046,Faisalabad,P008,Storage Box,Home & Kitchen,4.0,1522.5,0.0,Cash,Completed
+ORD-10014,2025-08-27,CUST-043,Peshawar,P003,USB-C Hub,Electronics,2.0,5400.0,0.0,Bank Transfer,Returned
+ORD-10015,2025-07-22,CUST-009,Faisalabad,P002,Keyboard,Electronics,4.0,3200.0,0.1,JazzCash,Completed
+ORD-10016,2025-12-25,CUST-020,Islamabad,P005,Ballpoint Pens,Stationery,4.0,250.0,0.0,Bank Transfer,Completed
+ORD-10017,2025-01-22,CUST-078,Islamabad,P015,Sunscreen,Beauty,5.0,1215.0,0.0,EasyPaisa,Returned
+ORD-10018,2025-07-04,CUST-071,Gujranwala,P005,Ballpoint Pens,Stationery,3.0,225.0,0.1,JazzCash,Completed
+ORD-10019,2025-03-02,CUST-031,Lahore,P007,Water Bottle,Home & Kitchen,3.0,997.5,0.05,Cash,Completed
+ORD-10020,2025-09-19,CUST-015,Gujranwala,P002,Keyboard,Electronics,4.0,3200.0,0.15,Bank Transfer,Completed
+ORD-10021,2025-06-12,CUST-015,Rawalpindi,P015,Sunscreen,Beauty,1.0,1350.0,0.05,Card,Completed
+ORD-10022,2025-12-17,CUST-008,Islamabad,P005,Ballpoint Pens,Stationery,4.0,250.0,0.1,Cash,Completed
+ORD-10023,2025-09-13,CUST-042,Islamabad,P006,Desk Organizer,Stationery,5.0,1312.5,0.05,JazzCash,Completed
+ORD-10024,2025-10-15,CUST-041,Multan,P015,Sunscreen,Beauty,2.0,1350.0,0.15,Card,Returned
+ORD-10025,2025-06-16,CUST-064,Karachi,P002,Keyboard,Electronics,1.0,3360.0,0.05,JazzCash,Completed
+ORD-10026,2025-06-19,CUST-078,Lahore,P005,Ballpoint Pens,Stationery,5.0,250.0,0.1,JazzCash,Completed
+ORD-10027,2025-08-17,CUST-013,Faisalabad,P008,Storage Box,Home & Kitchen,4.0,1450.0,0.1,Cash,Completed
+ORD-10028,2025-10-15,CUST-004,Karachi,P010,Running Shoes,Sports,4.0,7560.0,0.0,Bank Transfer,Completed
+ORD-10029,2025-02-07,CUST-016,Faisalabad,P003,USB-C Hub,Electronics,2.0,4860.0,0.1,JazzCash,Returned
+ORD-10030,2025-06-13,CUST-032,Faisalabad,P003,USB-C Hub,Electronics,2.0,5670.0,0.2,Bank Transfer,Completed
+ORD-10031,2025-06-26,CUST-043,Peshawar,P005,Ballpoint Pens,Stationery,1.0,262.5,0.0,Cash,Completed
+ORD-10032,2025-06-11,CUST-085,Karachi,P002,Keyboard,Electronics,2.0,3200.0,0.05,Bank Transfer,Completed
+ORD-10033,2025-05-02,CUST-050,Faisalabad,P009,Coffee Mug,Home & Kitchen,3.0,550.0,0.15,EasyPaisa,Cancelled
+ORD-10034,2025-01-04,CUST-081,Faisalabad,P007,Water Bottle,Home & Kitchen,2.0,950.0,0.0,Cash,Returned
+ORD-10035,2025-09-03,CUST-011,Islamabad,P005,Ballpoint Pens,Stationery,3.0,225.0,0.0,Card,Completed
+ORD-10036,2025-04-28,CUST-010,Faisalabad,P010,Running Shoes,Sports,4.0,7560.0,0.15,EasyPaisa,Returned
+ORD-10037,2025-07-22,CUST-050,Islamabad,P015,Sunscreen,Beauty,2.0,1215.0,0.0,Card,Completed
+ORD-10038,2025-03-15,CUST-086,Multan,P013,Face Wash,Beauty,3.0,819.0,0.15,Card,Completed
+ORD-10039,2025-12-08,CUST-017,Karachi,P010,Running Shoes,Sports,3.0,7200.0,0.2,Bank Transfer,Cancelled
+ORD-10040,2025-02-25,CUST-081,Lahore,P001,Wireless Mouse,Electronics,2.0,1890.0,0.05,JazzCash,Cancelled
+ORD-10041,2025-07-09,CUST-043,Islamabad,P013,Face Wash,Beauty,5.0,819.0,0.0,Cash,Completed
+ORD-10042,2025-11-20,CUST-009,Multan,P012,Resistance Bands,Sports,2.0,1600.0,0.1,JazzCash,Completed
+ORD-10043,2025-03-29,CUST-003,Lahore,P006,Desk Organizer,Stationery,2.0,1312.5,0.0,Cash,Cancelled
+ORD-10044,2025-05-15,CUST-054,Multan,P013,Face Wash,Beauty,5.0,780.0,0.0,EasyPaisa,Completed
+ORD-10045,2025-10-11,CUST-029,Gujranwala,P001,Wireless Mouse,Electronics,1.0,1800.0,0.0,Bank Transfer,Cancelled
+ORD-10046,2025-03-05,CUST-021,Islamabad,P008,Storage Box,Home & Kitchen,3.0,1522.5,0.0,Cash,Completed
+ORD-10047,2025-07-04,CUST-084,Multan,P001,Wireless Mouse,Electronics,4.0,1620.0,0.2,JazzCash,Completed
+ORD-10048,2025-01-10,CUST-065,Lahore,P009,Coffee Mug,Home & Kitchen,3.0,577.5,0.0,JazzCash,Returned
+ORD-10049,2025-12-05,CUST-008,Rawalpindi,P013,Face Wash,Beauty,1.0,702.0,0.05,EasyPaisa,Completed
+ORD-10050,2025-04-25,CUST-087,Faisalabad,P005,Ballpoint Pens,Stationery,1.0,250.0,0.05,Card,Completed
+ORD-10051,2025-07-22,CUST-014,Multan,P015,Sunscreen,Beauty,5.0,1215.0,0.05,EasyPaisa,Completed
+ORD-10052,2025-01-03,CUST-087,Karachi,P002,Keyboard,Electronics,4.0,3200.0,0.0,Bank Transfer,Completed
+ORD-10053,2025-06-20,CUST-058,Peshawar,P003,USB-C Hub,Electronics,5.0,5670.0,0.15,EasyPaisa,Completed
+ORD-10054,2025-04-02,CUST-072,Rawalpindi,P001,Wireless Mouse,Electronics,4.0,1800.0,0.0,Card,Returned
+ORD-10055,2025-11-13,CUST-068,Faisalabad,P006,Desk Organizer,Stationery,3.0,1250.0,0.15,Card,Cancelled
+ORD-10056,2025-02-11,CUST-059,Gujranwala,P007,Water Bottle,Home & Kitchen,1.0,997.5,0.05,EasyPaisa,Completed
+ORD-10057,2025-03-28,CUST-090,Multan,P005,Ballpoint Pens,Stationery,3.0,225.0,0.1,EasyPaisa,Completed
+ORD-10058,2025-06-23,CUST-054,Islamabad,P013,Face Wash,Beauty,5.0,819.0,0.0,Cash,Completed
+ORD-10059,2025-02-22,CUST-083,Gujranwala,P003,USB-C Hub,Electronics,5.0,5400.0,0.0,Bank Transfer,Cancelled
+ORD-10060,2025-06-16,CUST-011,Faisalabad,P003,USB-C Hub,Electronics,1.0,5400.0,0.0,Cash,Completed
+ORD-10061,2025-01-20,CUST-039,Faisalabad,P011,Yoga Mat,Sports,1.0,,0.0,Bank Transfer,Returned
+ORD-10062,2025-12-26,CUST-046,Multan,P011,Yoga Mat,Sports,5.0,2940.0,0.05,EasyPaisa,Completed
+ORD-10063,2025-03-08,CUST-081,Karachi,P012,Resistance Bands,Sports,5.0,1440.0,0.1,Card,Completed
+ORD-10064,2025-04-14,CUST-005,Lahore,P004,Notebook Set,Stationery,4.0,682.5,0.1,Card,Completed
+ORD-10065,2025-11-01,CUST-010,Lahore,P014,Moisturizer,Beauty,3.0,1485.0,0.2,Bank Transfer,Completed
+ORD-10066,2025-10-20,CUST-082,Karachi,P014,Moisturizer,Beauty,4.0,1732.5,0.0,EasyPaisa,Cancelled
+ORD-10067,2025-08-23,CUST-056,Peshawar,P005,Ballpoint Pens,Stationery,5.0,262.5,0.1,JazzCash,Completed
+ORD-10068,2025-12-19,CUST-078,Peshawar,P003,USB-C Hub,Electronics,5.0,5400.0,0.1,Bank Transfer,Completed
+ORD-10069,2025-04-08,CUST-006,Karachi,P012,Resistance Bands,Sports,2.0,1600.0,0.15,Bank Transfer,Completed
+ORD-10070,2025-05-04,CUST-034,Faisalabad,P008,Storage Box,Home & Kitchen,1.0,1450.0,0.05,Card,Completed
+ORD-10071,2025-09-08,CUST-022,Islamabad,P012,Resistance Bands,Sports,2.0,1600.0,0.05,JazzCash,Completed
+ORD-10072,2025-10-09,CUST-030,Rawalpindi,P015,Sunscreen,Beauty,4.0,1417.5,0.2,Bank Transfer,Completed
+ORD-10073,2025-10-21,CUST-050,Faisalabad,P015,Sunscreen,Beauty,5.0,1350.0,0.05,JazzCash,Completed
+ORD-10074,2025-01-13,CUST-019,Karachi ,P010,Running Shoes,Sports,1.0,6480.0,0.0,JazzCash,Returned
+ORD-10075,2025-08-13,CUST-058,Lahore,P008,Storage Box,Home & Kitchen,5.0,1305.0,0.2,JazzCash,Cancelled
+ORD-10076,2025-09-22,CUST-013,Gujranwala,P011,Yoga Mat,Sports,3.0,2800.0,0.0,EasyPaisa,Cancelled
+ORD-10077,2025-10-13,CUST-090,Peshawar,P003,USB-C Hub,Electronics,5.0,5400.0,0.05,EasyPaisa,Completed
+ORD-10078,2025-01-19,CUST-009,Faisalabad,P015,Sunscreen,Beauty,1.0,1350.0,0.0,JazzCash,Completed
+ORD-10079,2025-07-28,CUST-043,Rawalpindi,P003,USB-C Hub,Electronics,1.0,5400.0,0.0,JazzCash,Completed
+ORD-10080,2025-07-08,CUST-045,Karachi,P008,Storage Box,Home & Kitchen,4.0,1522.5,0.15,Bank Transfer,Returned
+ORD-10081,2025-02-12,CUST-065,Lahore,P003,USB-C Hub,Electronics,5.0,4860.0,0.2,Bank Transfer,Returned
+ORD-10082,2025-03-18,CUST-061,Multan,P010,Running Shoes,Sports,,7560.0,0.05,Card,Returned
+ORD-10083,2025-04-09,CUST-072,Islamabad,P012,Resistance Bands,Sports,5.0,1680.0,0.15,Bank Transfer,Completed
+ORD-10084,2025-02-01,CUST-085,Faisalabad,P005,Ballpoint Pens,Stationery,2.0,262.5,0.0,Bank Transfer,Completed
+ORD-10085,2025-07-21,CUST-086,Gujranwala,P012,Resistance Bands,Sports,2.0,1600.0,0.0,Card,Completed
+ORD-10086,2025-08-26,CUST-089,Lahore,P012,Resistance Bands,Sports,4.0,1440.0,0.05,JazzCash,Completed
+ORD-10087,2025-11-07,CUST-080,Multan,P013,Face Wash,Beauty,5.0,702.0,0.05,Cash,Completed
+ORD-10088,2025-07-18,CUST-002,Lahore,P002,Keyboard,Electronics,3.0,2880.0,0.1,Bank Transfer,Returned
+ORD-10089,2025-06-17,CUST-029,Rawalpindi,P011,Yoga Mat,Sports,5.0,2800.0,0.05,Cash,Cancelled
+ORD-10090,2025-07-18,CUST-010,Rawalpindi,P005,Ballpoint Pens,Stationery,3.0,250.0,0.2,EasyPaisa,Returned
+ORD-10091,2025-11-02,CUST-004,Lahore,P001,Wireless Mouse,Electronics,5.0,1800.0,0.15,JazzCash,Returned
+ORD-10092,2025-08-16,CUST-009,Multan,P015,Sunscreen,Beauty,1.0,1215.0,0.1,EasyPaisa,Completed
+ORD-10093,2025-02-22,CUST-077,Peshawar,P013,Face Wash,Beauty,1.0,702.0,0.0,EasyPaisa,Completed
+ORD-10094,2025-11-28,CUST-004,Lahore,P003,USB-C Hub,Electronics,1.0,5400.0,0.2,Cash,Completed
+ORD-10095,2025-10-20,CUST-087,Karachi,P003,USB-C Hub,Electronics,1.0,5400.0,0.15,Card,Cancelled
+ORD-10096,2025-12-20,CUST-084,lahore,P013,Face Wash,Beauty,2.0,780.0,0.0,JazzCash,Returned
+ORD-10097,2025-01-15,CUST-042,Karachi,P013,Face Wash,Beauty,4.0,819.0,0.15,Cash,Completed
+ORD-10098,2025-07-20,CUST-057,Lahore,P002,Keyboard,Electronics,4.0,3200.0,0.1,EasyPaisa,Returned
+ORD-10099,2025-03-12,CUST-002,Islamabad,P007,Water Bottle,Home & Kitchen,1.0,950.0,0.15,Cash,Completed
+ORD-10100,2025-07-05,CUST-005,Lahore,P011,Yoga Mat,Sports,3.0,,0.2,JazzCash,Completed
+ORD-10101,2025-09-16,,Karachi,P001,Wireless Mouse,Electronics,1.0,1890.0,0.0,Card,Completed
+ORD-10102,2025-08-05,CUST-042,Faisalabad,P002,Keyboard,Electronics,4.0,3200.0,0.0,JazzCash,Cancelled
+ORD-10103,2025-02-22,CUST-023,Gujranwala,P004,Notebook Set,Stationery,4.0,650.0,,Bank Transfer,Completed
+ORD-10104,not-a-date,CUST-059,Rawalpindi,P005,Ballpoint Pens,Stationery,3.0,250.0,0.1,EasyPaisa,Returned
+ORD-10105,2025-05-28,CUST-083,Rawalpindi,P003,USB-C Hub,Electronics,1.0,5400.0,0.05,Cash,Returned
+ORD-10106,2025-02-04,CUST-028,Faisalabad,P002,Keyboard,Electronics,5.0,3360.0,0.0,Bank Transfer,Completed
+ORD-10107,2025-05-31,CUST-014,Rawalpindi,P012,Resistance Bands,Sports,4.0,1600.0,0.05,EasyPaisa,Cancelled
+ORD-10108,2025-12-02,CUST-004,Islamabad,P004,Notebook Set,Stationery,5.0,650.0,0.1,Bank Transfer,Completed
+ORD-10109,2025-07-28,CUST-032,Faisalabad,P008,Storage Box,Home & Kitchen,3.0,1305.0,0.0,Bank Transfer,Completed
+ORD-10110,2025-08-14,CUST-029,,P011,Yoga Mat,Sports,3.0,2800.0,0.1,JazzCash,Completed
+ORD-10111,2025-08-17,CUST-048,Islamabad,P006,Desk Organizer,Stationery,3.0,1250.0,0.0,EasyPaisa,Completed
+ORD-10112,2025-02-16,CUST-083,Peshawar,P008,Storage Box,Home & Kitchen,5.0,1450.0,0.15,Bank Transfer,Cancelled
+ORD-10113,2025-04-25,CUST-047,Peshawar,P012,Resistance Bands,Sports,3.0,1680.0,0.0,Card,Completed
+ORD-10114,2025-11-14,CUST-076,Peshawar,P008,Storage Box,Home & Kitchen,1.0,1305.0,0.0,Cash,Completed
+ORD-10115,2025-03-05,CUST-066,Islamabad,P002,Keyboard,Electronics,2.0,3200.0,0.1,Cash,Completed
+ORD-10116,2025-09-15,CUST-078,Rawalpindi,P012,Resistance Bands,Sports,5.0,1600.0,0.0,Card,Returned
+ORD-10117,2025-02-13,CUST-046,Islamabad,P011,Yoga Mat,Sports,1.0,2800.0,0.0,Bank Transfer,Returned
+ORD-10118,2025-06-04,CUST-028,Peshawar,P015,Sunscreen,Beauty,1.0,1350.0,0.2,JazzCash,Returned
+ORD-10119,2025-08-22,CUST-031,Lahore,P003,USB-C Hub,Electronics,4.0,5400.0,0.15,JazzCash,Cancelled
+ORD-10120,2025-09-17,CUST-015,Rawalpindi,P004,Notebook Set,Stationery,4.0,650.0,0.1,EasyPaisa,Completed
+ORD-10121,2025-11-03,CUST-073,Gujranwala,P014,Moisturizer,Beauty,5.0,1650.0,0.2,JazzCash,Completed
+ORD-10122,2025-04-30,CUST-008,Peshawar,P003,USB-C Hub,Electronics,3.0,5670.0,0.05,JazzCash,Completed
+ORD-10123,2025-02-24,CUST-028,Karachi,P001,Wireless Mouse,Electronics,3.0,1800.0,0.05,Card,Cancelled
+ORD-10124,2025-03-12,CUST-027,Karachi,P014,Moisturizer,Beauty,5.0,1650.0,0.0,Bank Transfer,Completed
+ORD-10125,2025-01-31,CUST-025,Karachi,P015,Sunscreen,Beauty,3.0,1350.0,0.15,EasyPaisa,Completed
+ORD-10126,2025-05-29,CUST-061,Peshawar,P013,Face Wash,Beauty,5.0,780.0,0.1,JazzCash,Completed
+ORD-10127,2025-07-16,CUST-080,Islamabad,P010,Running Shoes,Sports,1.0,7200.0,0.15,EasyPaisa,Returned
+ORD-10128,2025-09-09,CUST-077,Islamabad,P013,Face Wash,Beauty,2.0,780.0,,Bank Transfer,Returned
+ORD-10129,2025-11-07,CUST-035,Islamabad,P007,Water Bottle,Home & Kitchen,5.0,950.0,0.0,Bank Transfer,Completed
+ORD-10130,2025-01-09,CUST-036,Gujranwala,P008,Storage Box,Home & Kitchen,5.0,1450.0,0.1,EasyPaisa,Completed
+ORD-10131,2025-05-04,CUST-029,Karachi,P010,Running Shoes,Sports,4.0,6480.0,0.05,Card,Completed
+ORD-10132,2025-06-03,CUST-028,Karachi,P001,Wireless Mouse,Electronics,4.0,1800.0,0.2,Bank Transfer,Completed
+ORD-10133,2025-09-14,CUST-048,Multan,P009,Coffee Mug,Home & Kitchen,1.0,550.0,0.05,JazzCash,Completed
+ORD-10134,2025-12-26,CUST-069,Multan,P015,Sunscreen,Beauty,5.0,1417.5,0.1,,Completed
+ORD-10135,2025-10-13,CUST-042,Peshawar,P008,Storage Box,Home & Kitchen,4.0,1522.5,0.0,Cash,Completed
+ORD-10136,2025-08-26,CUST-050,Gujranwala,P002,Keyboard,Electronics,3.0,3360.0,0.15,JazzCash,Completed
+ORD-10137,2025-04-16,CUST-074,Multan,P007,Water Bottle,Home & Kitchen,5.0,997.5,0.0,EasyPaisa,Completed
+ORD-10138,2025-04-19,CUST-004,Faisalabad,P012,Resistance Bands,Sports,4.0,1440.0,0.05,JazzCash,Completed
+ORD-10139,2025-06-19,CUST-030,Gujranwala,P015,Sunscreen,Beauty,3.0,1417.5,0.2,Card,Cancelled
+ORD-10140,2025-03-23,CUST-050,Faisalabad,P007,Water Bottle,Home & Kitchen,1.0,950.0,0.15,EasyPaisa,Completed
+ORD-10141,2025-01-14,CUST-005,Islamabad,P004,Notebook Set,Stationery,5.0,682.5,0.05,EasyPaisa,Completed
+ORD-10142,2025-10-06,CUST-065,Multan,P001,Wireless Mouse,Electronics,2.0,1890.0,0.0,JazzCash,Returned
+ORD-10143,2025-10-20,CUST-035,Lahore,P001,Wireless Mouse,Electronics,5.0,1800.0,0.15,EasyPaisa,Completed
+ORD-10144,2025-06-11,CUST-001,Gujranwala,P004,Notebook Set,Stationery,1.0,585.0,0.1,Bank Transfer,Cancelled
+ORD-10145,2025-05-27,CUST-063,Gujranwala,P004,Notebook Set,Stationery,4.0,585.0,0.1,JazzCash,Returned
+ORD-10146,2025-07-11,CUST-032,Peshawar,P011,Yoga Mat,Sports,2.0,2800.0,0.0,EasyPaisa,Cancelled
+ORD-10147,2025-05-25,CUST-011,Islamabad,P014,Moisturizer,Beauty,2.0,1650.0,0.15,Bank Transfer,Completed
+ORD-10148,2025-09-04,CUST-031,Rawalpindi,P014,Moisturizer,Beauty,5.0,1650.0,0.0,JazzCash,Completed
+ORD-10149,2025-04-19,CUST-070,Rawalpindi,P007,Water Bottle,Home & Kitchen,5.0,997.5,0.1,Bank Transfer,Completed
+ORD-10150,2025-11-09,CUST-064,Multan,P003,USB-C Hub,Electronics,1.0,4860.0,0.1,Bank Transfer,Cancelled
+ORD-10151,2025-07-01,CUST-031,Karachi,P001,Wireless Mouse,Electronics,2.0,1890.0,0.05,Cash,Completed
+ORD-10152,2025-07-22,CUST-002,Islamabad,P006,Desk Organizer,Stationery,1.0,1250.0,0.0,Bank Transfer,Completed
+ORD-10153,2025-06-03,CUST-080,Gujranwala,P015,Sunscreen,Beauty,4.0,1350.0,0.2,EasyPaisa,Completed
+ORD-10154,2025-05-07,CUST-081,Rawalpindi,P012,Resistance Bands,Sports,3.0,1680.0,0.1,Card,Completed
+ORD-10155,2025-07-13,CUST-089,Multan,P009,Coffee Mug,Home & Kitchen,2.0,577.5,0.2,Card,Completed
+ORD-10156,2025-11-08,CUST-022,Islamabad,P009,Coffee Mug,Home & Kitchen,4.0,495.0,0.1,Card,Completed
+ORD-10157,2025-04-14,CUST-006,Faisalabad,P003,USB-C Hub,Electronics,1.0,5670.0,0.05,Card,Completed
+ORD-10158,2025-11-11,,Gujranwala,P012,Resistance Bands,Sports,3.0,1600.0,0.15,EasyPaisa,Completed
+ORD-10159,2025-11-26,CUST-025,Peshawar,P009,Coffee Mug,Home & Kitchen,4.0,577.5,0.0,Bank Transfer,Returned
+ORD-10160,2025-06-05,CUST-059,Islamabad,P003,USB-C Hub,Electronics,1.0,5400.0,0.1,EasyPaisa,Completed
+ORD-10161,2025-01-14,CUST-085,Gujranwala,P012,Resistance Bands,Sports,3.0,1600.0,0.2,JazzCash,Completed
+ORD-10162,2025-07-28,CUST-006,Gujranwala,P002,Keyboard,Electronics,2.0,2880.0,0.0,Bank Transfer,Completed
+ORD-10163,2025-01-19,CUST-077,Lahore,P004,Notebook Set,Stationery,3.0,650.0,0.15,JazzCash,Completed
+ORD-10164,2025-06-13,CUST-019,Gujranwala,P006,Desk Organizer,Stationery,4.0,1312.5,0.0,Card,Returned
+ORD-10165,2025-01-01,CUST-027,,P008,Storage Box,Home & Kitchen,2.0,1450.0,0.0,Bank Transfer,Completed
+ORD-10166,2025-04-11,CUST-045,Lahore,P013,Face Wash,Beauty,1.0,702.0,0.0,Card,Completed
+ORD-10167,2025-11-04,CUST-048,Islamabad,P007,Water Bottle,Home & Kitchen,3.0,997.5,0.1,Card,Completed
+ORD-10168,2025-11-12,CUST-062,Karachi ,P005,Ballpoint Pens,Stationery,3.0,262.5,0.0,Card,Completed
+ORD-10169,2025-01-18,CUST-045,Rawalpindi,P012,Resistance Bands,Sports,2.0,1680.0,0.0,EasyPaisa,Completed
+ORD-10170,2025-04-27,CUST-013,Lahore,P011,Yoga Mat,Sports,1.0,2800.0,0.0,EasyPaisa,Completed
+ORD-10171,2025-01-12,CUST-014,Lahore,P002,Keyboard,Electronics,1.0,2880.0,0.2,JazzCash,Returned
+ORD-10172,2025-03-26,CUST-054,Multan,P010,Running Shoes,Sports,3.0,6480.0,0.0,EasyPaisa,Completed
+ORD-10173,2025-08-14,CUST-042,Karachi,P008,Storage Box,Home & Kitchen,1.0,1522.5,0.0,EasyPaisa,Completed
+ORD-10174,2025-04-01,CUST-083,Faisalabad,P012,Resistance Bands,Sports,5.0,1600.0,0.2,Bank Transfer,Completed
+ORD-10175,2025-05-12,CUST-067,Peshawar,P015,Sunscreen,Beauty,4.0,1417.5,0.2,Cash,Completed
+ORD-10176,2025-04-19,CUST-020,Faisalabad,P005,Ballpoint Pens,Stationery,3.0,225.0,0.15,Bank Transfer,Completed
+ORD-10177,2025-01-11,CUST-067,Islamabad,P010,Running Shoes,Sports,2.0,6480.0,0.15,Card,Cancelled
+ORD-10178,2025-11-05,CUST-064,Islamabad,P001,Wireless Mouse,Electronics,4.0,1800.0,0.0,JazzCash,Returned
+ORD-10179,2025-08-05,CUST-022,Karachi,P013,Face Wash,Beauty,2.0,819.0,0.0,JazzCash,Completed
+ORD-10180,2025-10-17,CUST-046,Lahore,P003,USB-C Hub,Electronics,4.0,4860.0,0.15,EasyPaisa,Completed
+ORD-10181,2025-12-29,CUST-053,Faisalabad,P004,Notebook Set,Stationery,1.0,585.0,0.2,Card,Completed
+ORD-10182,2025-06-01,CUST-049,Karachi,P002,Keyboard,Electronics,3.0,2880.0,0.2,JazzCash,Cancelled
+ORD-10183,2025-08-06,CUST-012,Islamabad,P003,USB-C Hub,Electronics,2.0,4860.0,0.15,Card,Completed
+ORD-10184,2025-01-19,CUST-054,Karachi,P010,Running Shoes,Sports,,6480.0,0.2,Card,Completed
+ORD-10185,2025-08-11,CUST-017,Faisalabad,P013,Face Wash,Beauty,5.0,780.0,0.2,Bank Transfer,Completed
+ORD-10186,not-a-date,CUST-052,Islamabad,P006,Desk Organizer,Stationery,4.0,1250.0,0.15,JazzCash,Returned
+ORD-10187,2025-07-07,CUST-085,Lahore,P011,Yoga Mat,Sports,5.0,2800.0,0.0,Cash,Cancelled
+ORD-10188,2025-12-09,CUST-009,Peshawar,P012,Resistance Bands,Sports,2.0,1600.0,0.1,EasyPaisa,Completed
+ORD-10189,2025-02-24,CUST-033,Gujranwala,P010,Running Shoes,Sports,2.0,7200.0,0.0,Card,Completed
+ORD-10190,2025-12-25,CUST-083,Karachi,P003,USB-C Hub,Electronics,4.0,5670.0,0.0,Card,Cancelled
+ORD-10191,2025-11-17,CUST-059,Rawalpindi,P006,Desk Organizer,Stationery,3.0,1250.0,0.2,Bank Transfer,Completed
+ORD-10192,2025-07-14,CUST-071,Gujranwala,P008,Storage Box,Home & Kitchen,1.0,1450.0,0.15,Bank Transfer,Returned
+ORD-10193,2025-11-12,CUST-078,Peshawar,P007,Water Bottle,Home & Kitchen,1.0,997.5,0.15,Bank Transfer,Returned
+ORD-10194,2025-06-16,CUST-003,Karachi,P002,Keyboard,Electronics,1.0,3200.0,0.0,EasyPaisa,Returned
+ORD-10195,2025-11-20,CUST-057,Rawalpindi,P015,Sunscreen,Beauty,2.0,1350.0,0.15,JazzCash,Cancelled
+ORD-10196,2025-05-21,CUST-037,Lahore,P005,Ballpoint Pens,Stationery,2.0,250.0,0.1,JazzCash,Completed
+ORD-10197,2025-03-13,CUST-031,Rawalpindi,P009,Coffee Mug,Home & Kitchen,5.0,550.0,0.1,Card,Completed
+ORD-10198,2025-04-23,CUST-062,Lahore,P006,Desk Organizer,Stationery,4.0,1250.0,0.0,Card,Completed
+ORD-10199,2025-02-06,CUST-043,Peshawar,P001,Wireless Mouse,Electronics,5.0,1620.0,0.15,Bank Transfer,Completed
+ORD-10200,2025-12-23,CUST-017,Rawalpindi,P014,Moisturizer,Beauty,2.0,1650.0,0.0,Bank Transfer,Completed
+ORD-10201,2025-01-17,CUST-001,Rawalpindi,P001,Wireless Mouse,Electronics,3.0,1800.0,0.05,Cash,Completed
+ORD-10202,2025-11-19,CUST-010,Karachi,P015,Sunscreen,Beauty,2.0,1350.0,0.1,Card,Completed
+ORD-10203,2025-11-16,CUST-070,Gujranwala,P003,USB-C Hub,Electronics,2.0,5670.0,0.0,Cash,Completed
+ORD-10204,2025-08-03,CUST-007,Rawalpindi,P015,Sunscreen,Beauty,4.0,1350.0,0.2,Cash,Cancelled
+ORD-10205,2025-02-05,CUST-074,Peshawar,P015,Sunscreen,Beauty,2.0,1350.0,0.0,JazzCash,Completed
+ORD-10206,2025-01-30,CUST-023,Rawalpindi,P010,Running Shoes,Sports,3.0,7200.0,0.1,Cash,Completed
+ORD-10207,2025-09-26,CUST-067,Islamabad,P002,Keyboard,Electronics,5.0,3200.0,0.05,EasyPaisa,Completed
+ORD-10208,2025-01-12,CUST-070,Lahore,P006,Desk Organizer,Stationery,5.0,1125.0,0.05,Card,Returned
+ORD-10209,2025-11-24,CUST-066,Lahore,P010,Running Shoes,Sports,5.0,6480.0,0.05,Card,Completed
+ORD-10210,2025-08-26,CUST-038,Lahore,P004,Notebook Set,Stationery,1.0,650.0,0.2,Bank Transfer,Completed
+ORD-10211,2025-11-07,CUST-052,Peshawar,P003,USB-C Hub,Electronics,,5400.0,0.2,JazzCash,Completed
+ORD-10212,2025-05-02,CUST-023,Islamabad,P006,Desk Organizer,Stationery,3.0,1250.0,0.1,Cash,Completed
+ORD-10213,2025-10-11,CUST-030,Faisalabad,P001,Wireless Mouse,Electronics,5.0,1890.0,0.0,Card,Completed
+ORD-10214,2025-10-29,CUST-040,Islamabad,P008,Storage Box,Home & Kitchen,3.0,1450.0,0.1,Cash,Completed
+ORD-10215,2025-06-25,CUST-076,Gujranwala,P006,Desk Organizer,Stationery,1.0,1312.5,0.0,Cash,Completed
+ORD-10216,2025-03-02,CUST-023,Peshawar,P003,USB-C Hub,Electronics,2.0,5670.0,0.1,Cash,Completed
+ORD-10217,2025-04-28,CUST-083,Faisalabad,P006,Desk Organizer,Stationery,1.0,1312.5,0.0,Cash,Completed
+ORD-10218,2025-08-30,CUST-017,Peshawar,P007,Water Bottle,Home & Kitchen,5.0,950.0,,EasyPaisa,Completed
+ORD-10219,2025-06-21,CUST-076,Karachi,P003,USB-C Hub,Electronics,5.0,5400.0,0.15,EasyPaisa,Completed
+ORD-10220,2025-12-07,CUST-031,Lahore,P014,Moisturizer,Beauty,4.0,1650.0,0.05,JazzCash,Completed
+ORD-10221,2025-10-17,CUST-075,Karachi,P010,Running Shoes,Sports,4.0,7560.0,0.0,Card,Completed
+ORD-10222,2025-10-03,CUST-001,Faisalabad,P014,Moisturizer,Beauty,3.0,1650.0,0.05,EasyPaisa,Completed
+ORD-10223,2025-06-17,CUST-072,Karachi,P005,Ballpoint Pens,Stationery,2.0,225.0,0.2,Bank Transfer,Completed
+ORD-10224,2025-02-25,CUST-083,Multan,P003,USB-C Hub,Electronics,4.0,5400.0,0.1,Card,Completed
+ORD-10225,2025-08-29,CUST-060,Faisalabad,P007,Water Bottle,Home & Kitchen,4.0,950.0,0.15,Cash,Completed
+ORD-10226,2025-07-22,CUST-016,Lahore,P008,Storage Box,Home & Kitchen,4.0,1450.0,0.2,JazzCash,Completed
+ORD-10227,2025-06-14,CUST-027,Gujranwala,P015,Sunscreen,Beauty,5.0,1215.0,0.1,JazzCash,Cancelled
+ORD-10228,2025-10-02,CUST-060,Karachi,P012,Resistance Bands,Sports,2.0,1600.0,0.2,Card,Completed
+ORD-10229,2025-09-27,CUST-036,Rawalpindi,P006,Desk Organizer,Stationery,5.0,1250.0,0.15,EasyPaisa,Returned
+ORD-10230,2025-09-22,CUST-082,Islamabad,P009,Coffee Mug,Home & Kitchen,1.0,550.0,0.15,Bank Transfer,Completed
+ORD-10231,2025-05-29,CUST-042,Rawalpindi,P003,USB-C Hub,Electronics,4.0,5400.0,0.05,Card,Returned
+ORD-10232,2025-02-17,CUST-059,Multan,P002,Keyboard,Electronics,5.0,3200.0,0.0,JazzCash,Returned
+ORD-10233,2025-03-14,CUST-015,Peshawar,P005,Ballpoint Pens,Stationery,1.0,250.0,0.2,EasyPaisa,Returned
+ORD-10234,2025-03-04,CUST-012,Peshawar,P013,Face Wash,Beauty,4.0,819.0,0.0,Card,Returned
+ORD-10235,2025-09-04,CUST-083,Gujranwala,P012,Resistance Bands,Sports,1.0,1600.0,0.0,JazzCash,Completed
+ORD-10236,2025-10-08,CUST-086,Faisalabad,P004,Notebook Set,Stationery,5.0,650.0,0.1,JazzCash,Returned
+ORD-10237,2025-04-27,CUST-065,Gujranwala,P012,Resistance Bands,Sports,2.0,1600.0,0.0,Bank Transfer,Completed
+ORD-10238,2025-07-16,CUST-037,Multan,P006,Desk Organizer,Stationery,3.0,1250.0,0.15,EasyPaisa,Completed
+ORD-10239,2025-12-08,CUST-077,Peshawar,P015,Sunscreen,Beauty,4.0,1350.0,0.05,Card,Completed
+ORD-10240,2025-06-11,CUST-057,Peshawar,P005,Ballpoint Pens,Stationery,5.0,250.0,0.1,Card,Completed
+ORD-10241,2025-12-04,CUST-029,Peshawar,P013,Face Wash,Beauty,2.0,819.0,0.05,EasyPaisa,Cancelled
+ORD-10242,2025-03-27,CUST-069,Lahore,P015,Sunscreen,Beauty,1.0,1417.5,0.15,Bank Transfer,Returned
+ORD-10243,2025-08-24,CUST-058,Islamabad,P010,Running Shoes,Sports,3.0,6480.0,0.15,Card,Completed
+ORD-10244,2025-04-15,CUST-020,Multan,P004,Notebook Set,Stationery,3.0,650.0,0.1,EasyPaisa,Completed
+ORD-10245,2025-01-03,CUST-004,Islamabad,P005,Ballpoint Pens,Stationery,5.0,225.0,0.1,Bank Transfer,Completed
+ORD-10246,2025-09-13,CUST-070,Faisalabad,P012,Resistance Bands,Sports,1.0,1440.0,0.2,Cash,Completed
+ORD-10247,2025-03-12,CUST-086,Karachi,P002,Keyboard,Electronics,2.0,3360.0,0.05,Cash,Completed
+ORD-10248,2025-04-16,CUST-089,Multan,P007,Water Bottle,Home & Kitchen,3.0,997.5,0.1,Cash,Cancelled
+ORD-10249,2025-04-09,CUST-043,Gujranwala,P015,Sunscreen,Beauty,1.0,1417.5,0.1,Card,Completed
+ORD-10250,2025-07-30,CUST-016,Karachi,P010,Running Shoes,Sports,3.0,7200.0,0.0,Bank Transfer,Returned
+ORD-10251,2025-09-08,CUST-072,Multan,P008,Storage Box,Home & Kitchen,3.0,1450.0,0.0,Cash,Completed
+ORD-10252,2025-02-08,CUST-009,Multan,P015,Sunscreen,Beauty,1.0,1215.0,0.2,JazzCash,Completed
+ORD-10253,2025-06-18,CUST-017,Rawalpindi,P002,Keyboard,Electronics,5.0,3200.0,0.0,Card,Completed
+ORD-10254,2025-04-29,CUST-071,Multan,P001,Wireless Mouse,Electronics,2.0,1890.0,0.15,EasyPaisa,Completed
+ORD-10255,2025-04-28,CUST-022,Multan,P014,Moisturizer,Beauty,5.0,1650.0,0.2,JazzCash,Completed
+ORD-10256,2025-04-08,CUST-013,Faisalabad,P013,Face Wash,Beauty,1.0,702.0,0.05,EasyPaisa,Cancelled
+ORD-10257,2025-07-14,CUST-026,Lahore,P014,Moisturizer,Beauty,1.0,1485.0,0.0,Bank Transfer,Completed
+ORD-10258,2025-11-07,CUST-070,Lahore,P001,Wireless Mouse,Electronics,2.0,1620.0,0.0,Cash,Completed
+ORD-10259,2025-03-03,CUST-003,Karachi,P006,Desk Organizer,Stationery,4.0,1312.5,0.15,Cash,Completed
+ORD-10260,2025-06-15,CUST-074,Lahore,P013,Face Wash,Beauty,2.0,780.0,0.15,Cash,Completed
+ORD-10261,2025-04-04,CUST-030,Peshawar,P007,Water Bottle,Home & Kitchen,2.0,950.0,0.1,Card,Completed
+ORD-10262,2025-04-23,CUST-034,Rawalpindi,P008,Storage Box,Home & Kitchen,3.0,1450.0,0.15,Card,Completed
+ORD-10263,2025-02-13,CUST-069,Lahore,P010,Running Shoes,Sports,2.0,7560.0,0.1,Card,Cancelled
+ORD-10264,2025-01-23,CUST-036,Multan,P003,USB-C Hub,Electronics,1.0,4860.0,0.0,EasyPaisa,Returned
+ORD-10265,2025-06-13,CUST-083,Rawalpindi,P013,Face Wash,Beauty,1.0,780.0,0.2,Cash,Completed
+ORD-10266,2025-06-15,CUST-018,Faisalabad,P014,Moisturizer,Beauty,5.0,1732.5,0.2,Card,Cancelled
+ORD-10267,2025-09-26,CUST-001,,P008,Storage Box,Home & Kitchen,4.0,1450.0,0.2,JazzCash,Completed
+ORD-10268,2025-06-19,CUST-003,Faisalabad,P009,Coffee Mug,Home & Kitchen,2.0,550.0,0.15,Cash,Returned
+ORD-10269,2025-04-05,CUST-026,Rawalpindi,P014,Moisturizer,Beauty,4.0,1650.0,0.05,Card,Completed
+ORD-10270,2025-02-27,CUST-035,Peshawar,P012,Resistance Bands,Sports,1.0,1600.0,0.15,Card,Completed
+ORD-10271,2025-07-25,CUST-058,Multan,P002,Keyboard,Electronics,3.0,3200.0,0.0,EasyPaisa,Completed
+ORD-10272,2025-08-07,CUST-081,Peshawar,P001,Wireless Mouse,Electronics,,1620.0,0.0,JazzCash,Completed
+ORD-10273,2025-06-21,CUST-075,Rawalpindi,P012,Resistance Bands,Sports,1.0,1680.0,0.2,EasyPaisa,Completed
+ORD-10274,2025-06-23,CUST-053,Rawalpindi,P015,Sunscreen,Beauty,3.0,1350.0,0.0,Cash,Completed
+ORD-10275,2025-02-06,CUST-038,Karachi,P005,Ballpoint Pens,Stationery,4.0,225.0,0.0,Cash,Cancelled
+ORD-10276,2025-08-26,CUST-078,Karachi,P007,Water Bottle,Home & Kitchen,3.0,855.0,0.0,Card,Completed
+ORD-10277,2025-05-11,CUST-031,Islamabad,P006,Desk Organizer,Stationery,2.0,1125.0,0.0,EasyPaisa,Completed
+ORD-10278,2025-01-12,CUST-084,Multan,P010,Running Shoes,Sports,3.0,7560.0,0.0,Cash,Cancelled
+ORD-10279,2025-08-15,CUST-037,Lahore,P012,Resistance Bands,Sports,1.0,1440.0,0.0,Cash,Completed
+ORD-10280,2025-09-10,CUST-048,Karachi,P013,Face Wash,Beauty,5.0,702.0,0.15,EasyPaisa,Returned
+ORD-10281,2025-04-29,CUST-043,Gujranwala,P007,Water Bottle,Home & Kitchen,1.0,950.0,0.0,Cash,Completed
+ORD-10282,2025-10-20,CUST-089,Islamabad,P009,Coffee Mug,Home & Kitchen,5.0,577.5,0.15,Bank Transfer,Completed
+ORD-10283,2025-05-19,CUST-073,Rawalpindi,P008,Storage Box,Home & Kitchen,3.0,1522.5,0.0,JazzCash,Cancelled
+ORD-10284,2025-03-21,CUST-018,Gujranwala,P009,Coffee Mug,Home & Kitchen,3.0,550.0,0.0,Cash,Completed
+ORD-10285,2025-05-11,CUST-061,Rawalpindi,P012,Resistance Bands,Sports,5.0,1600.0,0.0,Bank Transfer,Completed
+ORD-10286,2025-10-20,CUST-084,Multan,P007,Water Bottle,Home & Kitchen,5.0,950.0,0.1,Card,Cancelled
+ORD-10287,2025-07-27,CUST-035,Rawalpindi,P012,Resistance Bands,Sports,2.0,1600.0,0.0,Card,Cancelled
+ORD-10288,2025-12-21,CUST-032,Lahore,P010,Running Shoes,Sports,2.0,7200.0,0.1,Card,Completed
+ORD-10289,2025-09-21,CUST-088,Rawalpindi,P008,Storage Box,Home & Kitchen,1.0,1305.0,0.0,EasyPaisa,Completed
+ORD-10290,2025-07-14,CUST-024,Faisalabad,P004,Notebook Set,Stationery,4.0,682.5,0.1,EasyPaisa,Returned
+ORD-10291,2025-09-02,CUST-090,Lahore,P015,Sunscreen,Beauty,5.0,1350.0,0.0,JazzCash,Completed
+ORD-10292,2025-12-03,CUST-053,Gujranwala,P015,Sunscreen,Beauty,5.0,1215.0,0.05,Cash,Cancelled
+ORD-10293,2025-07-25,CUST-008,Lahore,P010,Running Shoes,Sports,1.0,7200.0,0.2,Card,Cancelled
+ORD-10294,2025-03-16,CUST-042,Rawalpindi,P012,Resistance Bands,Sports,1.0,1440.0,0.2,Cash,Completed
+ORD-10295,2025-11-17,CUST-089,Islamabad,P009,Coffee Mug,Home & Kitchen,4.0,550.0,0.2,EasyPaisa,Cancelled
+ORD-10296,2025-06-08,CUST-070,Karachi,P009,Coffee Mug,Home & Kitchen,1.0,550.0,0.0,Bank Transfer,Completed
+ORD-10297,2025-12-18,CUST-072,Peshawar,P004,Notebook Set,Stationery,3.0,682.5,0.0,EasyPaisa,Completed
+ORD-10298,2025-07-31,CUST-034,Lahore,P003,USB-C Hub,Electronics,5.0,5670.0,0.1,Cash,Cancelled
+ORD-10299,2025-07-26,CUST-058,Gujranwala,P006,Desk Organizer,Stationery,5.0,1250.0,0.1,JazzCash,Completed
+ORD-10300,2025-02-16,CUST-038,Karachi,P010,Running Shoes,Sports,5.0,7560.0,0.05,Cash,Completed
+ORD-10301,2025-04-14,CUST-064,Islamabad,P014,Moisturizer,Beauty,4.0,1732.5,0.0,JazzCash,Completed
+ORD-10302,2025-07-04,CUST-042,Rawalpindi,P014,Moisturizer,Beauty,1.0,1732.5,0.0,JazzCash,Completed
+ORD-10303,2025-05-18,CUST-072,Faisalabad,P009,Coffee Mug,Home & Kitchen,1.0,550.0,0.1,Cash,Completed
+ORD-10304,2025-12-06,CUST-020,Rawalpindi,P001,Wireless Mouse,Electronics,3.0,1890.0,0.05,Cash,Completed
+ORD-10305,2025-02-05,CUST-047,Gujranwala,P009,Coffee Mug,Home & Kitchen,1.0,550.0,0.05,Cash,Completed
+ORD-10306,2025-03-31,CUST-008,Faisalabad,P007,Water Bottle,Home & Kitchen,2.0,950.0,0.15,JazzCash,Cancelled
+ORD-10307,2025-06-06,CUST-013,Rawalpindi,P015,Sunscreen,Beauty,5.0,1350.0,0.2,Card,Completed
+ORD-10308,2025-06-24,CUST-087,Multan,P001,Wireless Mouse,Electronics,2.0,1800.0,0.1,Cash,Cancelled
+ORD-10309,2025-11-26,CUST-035,,P004,Notebook Set,Stationery,4.0,650.0,0.1,Card,Completed
+ORD-10310,2025-04-14,CUST-006,Lahore,P015,Sunscreen,Beauty,4.0,1417.5,0.2,EasyPaisa,Completed
+ORD-10311,2025-12-01,CUST-079,Faisalabad,P015,Sunscreen,Beauty,1.0,1350.0,0.15,JazzCash,Completed
+ORD-10312,2025-03-04,CUST-088,Islamabad,P006,Desk Organizer,Stationery,4.0,1312.5,0.05,Card,Completed
+ORD-10313,2025-12-18,CUST-018,Lahore,P012,Resistance Bands,Sports,1.0,1600.0,0.1,JazzCash,Completed
+ORD-10314,2025-02-16,CUST-088,Faisalabad,P014,Moisturizer,Beauty,1.0,1650.0,0.15,EasyPaisa,Returned
+ORD-10315,2025-10-18,CUST-028,Faisalabad,P006,Desk Organizer,Stationery,5.0,1125.0,0.1,Card,Cancelled
+ORD-10316,2025-06-09,CUST-064,Peshawar,P009,Coffee Mug,Home & Kitchen,5.0,495.0,0.2,Bank Transfer,Cancelled
+ORD-10317,2025-05-12,CUST-018,Rawalpindi,P007,Water Bottle,Home & Kitchen,3.0,950.0,0.2,Cash,Completed
+ORD-10318,2025-09-22,CUST-041,Karachi,P002,Keyboard,Electronics,4.0,3200.0,0.0,EasyPaisa,Returned
+ORD-10319,2025-02-27,CUST-078,Karachi,P013,Face Wash,Beauty,4.0,702.0,0.0,Card,Completed
+ORD-10320,2025-08-31,CUST-085,Peshawar,P015,Sunscreen,Beauty,5.0,1350.0,0.0,EasyPaisa,Completed
+ORD-10321,2025-02-26,CUST-084,Lahore,P001,Wireless Mouse,Electronics,2.0,1620.0,0.1,Cash,Completed
+ORD-10322,2025-04-06,CUST-049,Multan,P003,USB-C Hub,Electronics,1.0,5400.0,0.1,JazzCash,Cancelled
+ORD-10323,2025-08-14,CUST-059,Peshawar,P012,Resistance Bands,Sports,2.0,1680.0,0.1,JazzCash,Cancelled
+ORD-10324,2025-06-22,CUST-021,Rawalpindi,P015,Sunscreen,Beauty,1.0,1215.0,0.05,Bank Transfer,Completed
+ORD-10325,2025-10-09,CUST-012,Faisalabad,P010,Running Shoes,Sports,5.0,7200.0,0.2,Bank Transfer,Completed
+ORD-10326,2025-03-05,CUST-061,Karachi,P003,USB-C Hub,Electronics,4.0,4860.0,0.0,Bank Transfer,Completed
+ORD-10327,2025-03-03,CUST-065,Gujranwala,P013,Face Wash,Beauty,2.0,780.0,0.15,JazzCash,Cancelled
+ORD-10328,2025-07-13,CUST-047,Lahore,P003,USB-C Hub,Electronics,5.0,5400.0,0.0,Bank Transfer,Completed
+ORD-10329,2025-06-27,CUST-047,Rawalpindi,P015,Sunscreen,Beauty,3.0,1417.5,0.0,EasyPaisa,Completed
+ORD-10330,2025-03-29,CUST-021,Multan,P007,Water Bottle,Home & Kitchen,5.0,950.0,0.0,JazzCash,Completed
+ORD-10331,2025-06-21,CUST-045,Gujranwala,P010,Running Shoes,Sports,1.0,7560.0,0.1,Card,Completed
+ORD-10332,2025-09-20,CUST-059,Multan,P008,Storage Box,Home & Kitchen,4.0,1522.5,0.0,JazzCash,Returned
+ORD-10333,2025-11-09,CUST-070,Multan,P014,Moisturizer,Beauty,3.0,1650.0,0.05,Card,Completed
+ORD-10334,2025-12-06,CUST-087,Multan,P006,Desk Organizer,Stationery,3.0,1312.5,0.1,Card,Returned
+ORD-10335,2025-07-04,CUST-005,Multan,P009,Coffee Mug,Home & Kitchen,3.0,577.5,,Bank Transfer,Completed
+ORD-10336,2025-05-08,CUST-012,Rawalpindi,P007,Water Bottle,Home & Kitchen,3.0,950.0,0.0,Cash,Returned
+ORD-10337,2025-11-23,CUST-066,Islamabad,P006,Desk Organizer,Stationery,4.0,1250.0,0.0,Bank Transfer,Completed
+ORD-10338,2025-04-14,CUST-018,Rawalpindi,P002,Keyboard,Electronics,1.0,3360.0,0.2,Card,Completed
+ORD-10339,2025-10-05,CUST-016,Multan,P005,Ballpoint Pens,Stationery,3.0,262.5,0.0,EasyPaisa,Returned
+ORD-10340,2025-10-20,CUST-014,Rawalpindi,P003,USB-C Hub,Electronics,4.0,5670.0,0.05,Card,Completed
+ORD-10341,2025-07-20,CUST-075,Multan,P004,Notebook Set,Stationery,2.0,585.0,0.05,Cash,Returned
+ORD-10342,2025-08-01,CUST-068,Lahore,P002,Keyboard,Electronics,3.0,2880.0,0.05,EasyPaisa,Returned
+ORD-10343,2025-03-29,CUST-031,Islamabad,P004,Notebook Set,Stationery,3.0,682.5,0.05,Cash,Completed
+ORD-10344,2025-09-20,CUST-022,Gujranwala,P003,USB-C Hub,Electronics,2.0,5400.0,0.05,JazzCash,Completed
+ORD-10345,2025-02-17,CUST-002,Rawalpindi,P003,USB-C Hub,Electronics,2.0,5400.0,0.0,JazzCash,Completed
+ORD-10346,2025-07-16,CUST-069,Lahore,P005,Ballpoint Pens,Stationery,5.0,262.5,0.05,EasyPaisa,Completed
+ORD-10347,2025-11-13,CUST-057,Gujranwala,P006,Desk Organizer,Stationery,3.0,1250.0,0.1,Bank Transfer,Completed
+ORD-10348,2025-07-04,CUST-072,Islamabad,P010,Running Shoes,Sports,3.0,7560.0,0.2,Bank Transfer,Cancelled
+ORD-10349,2025-06-24,CUST-043,Rawalpindi,P012,Resistance Bands,Sports,1.0,1440.0,0.15,Bank Transfer,Completed
+ORD-10350,2025-08-23,CUST-076,Gujranwala,P007,Water Bottle,Home & Kitchen,3.0,997.5,0.1,Cash,Completed
+ORD-10351,2025-11-06,CUST-070,Gujranwala,P011,Yoga Mat,Sports,2.0,2940.0,0.0,JazzCash,Completed
+ORD-10352,2025-02-16,CUST-037,Multan,P014,Moisturizer,Beauty,1.0,1485.0,0.2,Card,Completed
+ORD-10353,2025-05-06,CUST-090,Faisalabad,P013,Face Wash,Beauty,4.0,819.0,0.1,JazzCash,Completed
+ORD-10354,2025-09-30,CUST-006,Multan,P005,Ballpoint Pens,Stationery,2.0,225.0,0.0,EasyPaisa,Completed
+ORD-10355,2025-09-06,CUST-061,Karachi,P012,Resistance Bands,Sports,3.0,1680.0,0.0,JazzCash,Completed
+ORD-10356,2025-12-03,CUST-083,Peshawar,P003,USB-C Hub,Electronics,2.0,5670.0,0.15,Cash,Completed
+ORD-10357,2025-03-27,CUST-087,Islamabad,P005,Ballpoint Pens,Stationery,4.0,262.5,0.2,Card,Completed
+ORD-10358,2025-12-26,CUST-039,Multan,P015,Sunscreen,Beauty,3.0,1215.0,0.0,Card,Completed
+ORD-10359,2025-05-19,CUST-067,Peshawar,P012,Resistance Bands,Sports,4.0,1680.0,0.1,EasyPaisa,Completed
+ORD-10360,2025-05-13,CUST-090,Gujranwala,P004,Notebook Set,Stationery,4.0,650.0,0.0,Cash,Completed
+ORD-10361,2025-10-23,CUST-070,Lahore,P004,Notebook Set,Stationery,2.0,650.0,0.2,Cash,Returned
+ORD-10362,2025-03-28,CUST-017,Karachi,P006,Desk Organizer,Stationery,2.0,1125.0,0.15,Cash,Completed
+ORD-10363,2025-11-11,CUST-048,Multan,P009,Coffee Mug,Home & Kitchen,3.0,550.0,0.05,JazzCash,Returned
+ORD-10364,2025-08-27,CUST-037,Karachi,P011,Yoga Mat,Sports,1.0,2520.0,0.2,,Completed
+ORD-10365,2025-10-03,CUST-088,Lahore,P002,Keyboard,Electronics,2.0,3200.0,0.2,Bank Transfer,Completed
+ORD-10366,2025-05-28,CUST-042,Karachi,P008,Storage Box,Home & Kitchen,1.0,1305.0,0.0,Card,Completed
+ORD-10367,2025-10-20,CUST-058,Islamabad,P003,USB-C Hub,Electronics,4.0,5670.0,0.0,JazzCash,Completed
+ORD-10368,2025-01-09,CUST-085,Faisalabad,P005,Ballpoint Pens,Stationery,1.0,250.0,0.0,Bank Transfer,Completed
+ORD-10369,2025-05-26,CUST-024,Lahore,P014,Moisturizer,Beauty,2.0,1732.5,0.05,Cash,Completed
+ORD-10370,2025-02-28,CUST-019,Rawalpindi,P003,USB-C Hub,Electronics,4.0,5400.0,0.1,EasyPaisa,Returned
+ORD-10371,2025-03-25,CUST-048,Lahore,P010,Running Shoes,Sports,5.0,7560.0,0.0,EasyPaisa,Completed
+ORD-10372,2025-07-16,CUST-069,Faisalabad,P014,Moisturizer,Beauty,3.0,1485.0,0.0,Cash,Completed
+ORD-10373,2025-09-23,CUST-088,Rawalpindi,P002,Keyboard,Electronics,4.0,3360.0,0.0,Cash,Completed
+ORD-10374,2025-01-17,CUST-074,Karachi,P014,Moisturizer,Beauty,1.0,1732.5,0.1,JazzCash,Returned
+ORD-10375,2025-03-28,CUST-028,Faisalabad,P010,Running Shoes,Sports,2.0,6480.0,0.05,JazzCash,Cancelled
+ORD-10376,2025-10-31,CUST-071,Gujranwala,P008,Storage Box,Home & Kitchen,3.0,1522.5,0.1,EasyPaisa,Completed
+ORD-10377,2025-09-05,CUST-023,Faisalabad,P012,Resistance Bands,Sports,2.0,1600.0,0.15,JazzCash,Completed
+ORD-10378,2025-01-03,CUST-065,Peshawar,P003,USB-C Hub,Electronics,2.0,5400.0,0.15,EasyPaisa,Cancelled
+ORD-10379,2025-08-21,CUST-060,Rawalpindi,P003,USB-C Hub,Electronics,5.0,5400.0,0.05,Cash,Completed
+ORD-10380,2025-08-13,CUST-079,Lahore,P015,Sunscreen,Beauty,2.0,1350.0,0.0,Card,Completed
+ORD-10381,2025-12-24,CUST-044,,P008,Storage Box,Home & Kitchen,4.0,1450.0,0.1,JazzCash,Completed
+ORD-10382,2025-03-27,CUST-055,,P005,Ballpoint Pens,Stationery,2.0,225.0,0.15,JazzCash,Completed
+ORD-10383,2025-03-22,CUST-083,Multan,P015,Sunscreen,Beauty,5.0,1215.0,0.2,Card,Completed
+ORD-10384,2025-06-15,CUST-032,Peshawar,P009,Coffee Mug,Home & Kitchen,4.0,550.0,0.05,EasyPaisa,Completed
+ORD-10385,2025-12-11,CUST-079,Lahore,P012,Resistance Bands,Sports,1.0,1600.0,0.2,Card,Completed
+ORD-10386,2025-03-23,CUST-068,Karachi ,P012,Resistance Bands,Sports,3.0,1600.0,0.0,EasyPaisa,Cancelled
+ORD-10387,2025-10-12,CUST-072,Karachi,P005,Ballpoint Pens,Stationery,2.0,250.0,0.1,JazzCash,Completed
+ORD-10388,2025-06-11,CUST-064,Lahore,P004,Notebook Set,Stationery,3.0,650.0,0.0,JazzCash,Cancelled
+ORD-10389,2025-06-23,CUST-012,Rawalpindi,P006,Desk Organizer,Stationery,4.0,1250.0,0.2,Cash,Completed
+ORD-10390,2025-11-02,CUST-074,Lahore,P010,Running Shoes,Sports,2.0,6480.0,0.0,Card,Cancelled
+ORD-10391,2025-12-21,CUST-016,Gujranwala,P015,Sunscreen,Beauty,3.0,1215.0,0.0,JazzCash,Completed
+ORD-10392,2025-04-17,CUST-020,Karachi,P014,Moisturizer,Beauty,5.0,1732.5,0.0,Cash,Completed
+ORD-10393,2025-12-28,CUST-008,Lahore,P003,USB-C Hub,Electronics,1.0,4860.0,0.05,Cash,Completed
+ORD-10394,2025-02-01,CUST-070,Lahore,P002,Keyboard,Electronics,3.0,3200.0,0.15,JazzCash,Completed
+ORD-10395,2025-07-10,CUST-085,Multan,P007,Water Bottle,Home & Kitchen,5.0,950.0,0.0,Bank Transfer,Completed
+ORD-10396,2025-01-25,CUST-016,Rawalpindi,P007,Water Bottle,Home & Kitchen,4.0,855.0,0.05,JazzCash,Completed
+ORD-10397,2025-03-31,CUST-072,Peshawar,P012,Resistance Bands,Sports,2.0,1440.0,0.05,JazzCash,Returned
+ORD-10398,2025-11-18,CUST-007,Gujranwala,P005,Ballpoint Pens,Stationery,5.0,250.0,0.15,JazzCash,Cancelled
+ORD-10399,2025-09-09,CUST-059,Gujranwala,P004,Notebook Set,Stationery,2.0,585.0,0.15,Cash,Completed
+ORD-10400,2025-05-04,CUST-050,Islamabad,P005,Ballpoint Pens,Stationery,5.0,225.0,0.1,JazzCash,Completed
+ORD-10401,2025-02-19,CUST-030,Multan,P007,Water Bottle,Home & Kitchen,4.0,950.0,0.0,JazzCash,Cancelled
+ORD-10402,2025-10-02,CUST-041,Lahore,P011,Yoga Mat,Sports,3.0,2800.0,0.15,Bank Transfer,Completed
+ORD-10403,2025-06-10,CUST-075,Multan,P007,Water Bottle,Home & Kitchen,1.0,855.0,0.2,JazzCash,Completed
+ORD-10404,2025-01-14,CUST-069,Gujranwala,P004,Notebook Set,Stationery,5.0,650.0,0.15,Bank Transfer,Completed
+ORD-10405,2025-12-05,CUST-084,Rawalpindi,P009,Coffee Mug,Home & Kitchen,3.0,550.0,0.0,EasyPaisa,Returned
+ORD-10406,2025-02-13,CUST-007,Rawalpindi,P008,Storage Box,Home & Kitchen,4.0,1522.5,0.1,Bank Transfer,Returned
+ORD-10407,2025-06-30,CUST-051,Rawalpindi,P011,Yoga Mat,Sports,3.0,2940.0,0.1,EasyPaisa,Completed
+ORD-10408,2025-06-05,CUST-020,Karachi,P015,Sunscreen,Beauty,3.0,1350.0,0.05,Cash,Completed
+ORD-10409,2025-10-08,CUST-049,Multan,P009,Coffee Mug,Home & Kitchen,1.0,550.0,0.1,JazzCash,Completed
+ORD-10410,2025-02-08,CUST-085,Gujranwala,P001,Wireless Mouse,Electronics,2.0,1890.0,0.1,Cash,Completed
+ORD-10411,2025-08-23,CUST-028,Rawalpindi,P007,Water Bottle,Home & Kitchen,4.0,950.0,0.0,Card,Completed
+ORD-10412,2025-12-11,CUST-046,Karachi,P012,Resistance Bands,Sports,1.0,1440.0,0.0,JazzCash,Cancelled
+ORD-10413,2025-03-23,CUST-066,Islamabad,P008,Storage Box,Home & Kitchen,5.0,1522.5,0.05,Card,Returned
+ORD-10414,2025-10-02,CUST-090,Lahore,P004,Notebook Set,Stationery,4.0,650.0,0.0,EasyPaisa,Completed
+ORD-10415,2025-11-10,CUST-037,Gujranwala,P002,Keyboard,Electronics,3.0,3200.0,0.05,Card,Returned
+ORD-10416,2025-03-24,CUST-028,Gujranwala,P004,Notebook Set,Stationery,2.0,650.0,0.1,Bank Transfer,Returned
+ORD-10417,2025-11-27,CUST-053,Peshawar,P004,Notebook Set,Stationery,5.0,682.5,0.05,EasyPaisa,Cancelled
+ORD-10418,2025-01-30,CUST-051,Karachi,P005,Ballpoint Pens,Stationery,1.0,250.0,0.0,Bank Transfer,Completed
+ORD-10419,2025-10-01,CUST-073,Islamabad,P009,Coffee Mug,Home & Kitchen,4.0,,0.05,Bank Transfer,Returned
+ORD-10420,2025-07-14,CUST-077,Gujranwala,P005,Ballpoint Pens,Stationery,3.0,250.0,0.0,Bank Transfer,Completed
+ORD-10421,2025-07-22,CUST-016,Lahore,P001,Wireless Mouse,Electronics,2.0,1890.0,0.0,EasyPaisa,Cancelled
+ORD-10422,2025-11-22,CUST-025,Multan,P005,Ballpoint Pens,Stationery,1.0,250.0,0.0,Cash,Completed
+ORD-10423,2025-01-08,CUST-003,Peshawar,P001,Wireless Mouse,Electronics,1.0,1800.0,0.2,Cash,Returned
+ORD-10424,2025-09-04,CUST-040,Rawalpindi,P003,USB-C Hub,Electronics,3.0,4860.0,0.1,Cash,Completed
+ORD-10425,2025-01-05,,Karachi,P007,Water Bottle,Home & Kitchen,5.0,997.5,0.1,Bank Transfer,Completed
+ORD-10426,2025-11-24,CUST-019,Peshawar,P014,Moisturizer,Beauty,2.0,1650.0,0.1,JazzCash,Completed
+ORD-10427,2025-12-14,CUST-079,Rawalpindi,P003,USB-C Hub,Electronics,4.0,5400.0,0.0,Bank Transfer,Cancelled
+ORD-10428,2025-09-28,CUST-021,Multan,P005,Ballpoint Pens,Stationery,5.0,262.5,0.05,Cash,Completed
+ORD-10429,2025-01-07,CUST-030,lahore,P002,Keyboard,Electronics,2.0,3200.0,0.05,Bank Transfer,Completed
+ORD-10430,2025-07-10,CUST-073,Karachi,P010,Running Shoes,Sports,2.0,7200.0,0.1,JazzCash,Returned
+ORD-10431,2025-08-09,CUST-063,Karachi,P001,Wireless Mouse,Electronics,1.0,1800.0,0.2,Cash,Completed
+ORD-10432,2025-03-01,CUST-038,Lahore,P001,Wireless Mouse,Electronics,5.0,1800.0,0.0,Cash,Completed
+ORD-10433,2025-03-15,CUST-055,Gujranwala,P003,USB-C Hub,Electronics,5.0,5670.0,0.1,Bank Transfer,Completed
+ORD-10434,2025-07-05,CUST-002,Peshawar,P001,Wireless Mouse,Electronics,2.0,1800.0,0.2,,Cancelled
+ORD-10435,2025-12-21,CUST-018,Faisalabad,P011,Yoga Mat,Sports,5.0,2940.0,0.0,JazzCash,Completed
+ORD-10436,2025-12-09,CUST-056,Rawalpindi,P002,Keyboard,Electronics,1.0,2880.0,0.2,Bank Transfer,Completed
+ORD-10437,2025-09-28,CUST-064,Lahore,P010,Running Shoes,Sports,3.0,6480.0,0.1,JazzCash,Completed
+ORD-10438,2025-09-21,CUST-046,Faisalabad,P011,Yoga Mat,Sports,1.0,2800.0,0.2,Card,Completed
+ORD-10439,2025-05-15,CUST-088,Karachi,P014,Moisturizer,Beauty,5.0,1650.0,0.0,Card,Completed
+ORD-10440,2025-07-10,CUST-067,Lahore,P004,Notebook Set,Stationery,4.0,650.0,0.05,Card,Cancelled
+ORD-10441,2025-11-07,CUST-071,Karachi,P015,Sunscreen,Beauty,5.0,1350.0,0.1,Bank Transfer,Completed
+ORD-10442,2025-02-04,CUST-063,Multan,P010,Running Shoes,Sports,3.0,6480.0,0.2,EasyPaisa,Completed
+ORD-10443,2025-09-04,CUST-078,lahore,P009,Coffee Mug,Home & Kitchen,1.0,495.0,0.05,Card,Returned
+ORD-10444,2025-02-21,CUST-026,Faisalabad,P002,Keyboard,Electronics,3.0,3360.0,0.05,Card,Returned
+ORD-10445,2025-11-04,CUST-004,Rawalpindi,P001,Wireless Mouse,Electronics,5.0,1800.0,0.15,EasyPaisa,Completed
+ORD-10446,2025-05-09,CUST-080,Multan,P015,Sunscreen,Beauty,2.0,1215.0,0.1,Bank Transfer,Completed
+ORD-10447,2025-09-08,CUST-012,Lahore,P005,Ballpoint Pens,Stationery,1.0,225.0,,Bank Transfer,Completed
+ORD-10448,2025-09-09,CUST-038,Faisalabad,P005,Ballpoint Pens,Stationery,3.0,225.0,0.0,Bank Transfer,Completed
+ORD-10449,2025-08-13,CUST-028,Islamabad,P005,Ballpoint Pens,Stationery,2.0,225.0,0.05,Card,Returned
+ORD-10450,2025-06-15,CUST-023,Islamabad,P010,Running Shoes,Sports,4.0,7200.0,0.0,Bank Transfer,Completed
+ORD-10451,2025-05-18,CUST-077,Faisalabad,P005,Ballpoint Pens,Stationery,2.0,262.5,0.15,Card,Completed
+ORD-10452,2025-10-04,CUST-032,Peshawar,P009,Coffee Mug,Home & Kitchen,1.0,550.0,0.0,Bank Transfer,Completed
+ORD-10453,2025-12-10,CUST-030,Lahore,P012,Resistance Bands,Sports,1.0,1680.0,0.0,EasyPaisa,Cancelled
+ORD-10454,2025-10-08,CUST-071,Faisalabad,P010,Running Shoes,Sports,2.0,7560.0,0.15,JazzCash,Completed
+ORD-10455,2025-01-16,CUST-033,Rawalpindi,P005,Ballpoint Pens,Stationery,5.0,262.5,0.2,EasyPaisa,Returned
+ORD-10456,2025-02-03,CUST-089,Karachi,P009,Coffee Mug,Home & Kitchen,3.0,577.5,0.0,Cash,Completed
+ORD-10457,2025-04-29,CUST-001,Rawalpindi,P002,Keyboard,Electronics,3.0,3360.0,0.0,Cash,Completed
+ORD-10458,2025-03-17,CUST-005,Multan,P015,Sunscreen,Beauty,2.0,1215.0,0.05,EasyPaisa,Completed
+ORD-10459,2025-02-03,CUST-050,Rawalpindi,P015,Sunscreen,Beauty,2.0,1350.0,0.15,Cash,Completed
+ORD-10460,2025-12-22,CUST-024,Gujranwala,P014,Moisturizer,Beauty,4.0,1732.5,0.1,Bank Transfer,Cancelled
+ORD-10461,2025-04-13,CUST-038,Peshawar,P011,Yoga Mat,Sports,5.0,2800.0,0.0,EasyPaisa,Completed
+ORD-10462,2025-03-24,CUST-017,Multan,P006,Desk Organizer,Stationery,2.0,1312.5,0.1,Card,Cancelled
+ORD-10463,2025-03-15,CUST-065,Multan,P003,USB-C Hub,Electronics,1.0,5400.0,0.05,Bank Transfer,Completed
+ORD-10464,2025-07-04,CUST-032,Rawalpindi,P003,USB-C Hub,Electronics,3.0,5400.0,0.15,Card,Completed
+ORD-10465,2025-05-12,CUST-010,Peshawar,P005,Ballpoint Pens,Stationery,4.0,250.0,0.05,,Completed
+ORD-10466,2025-06-06,CUST-031,Multan,P009,Coffee Mug,Home & Kitchen,2.0,495.0,0.0,Cash,Cancelled
+ORD-10467,2025-03-29,CUST-062,Multan,P009,Coffee Mug,Home & Kitchen,3.0,495.0,0.1,Card,Cancelled
+ORD-10468,2025-03-24,CUST-055,Karachi,P002,Keyboard,Electronics,2.0,3360.0,0.15,JazzCash,Cancelled
+ORD-10469,2025-05-05,CUST-048,Karachi,P007,Water Bottle,Home & Kitchen,4.0,997.5,0.15,Cash,Completed
+ORD-10470,2025-06-14,CUST-056,Islamabad,P008,Storage Box,Home & Kitchen,5.0,1522.5,0.1,Cash,Completed
+ORD-10471,2025-01-15,CUST-086,Lahore,P002,Keyboard,Electronics,5.0,3200.0,0.1,JazzCash,Completed
+ORD-10472,2025-05-09,CUST-026,Islamabad,P004,Notebook Set,Stationery,2.0,682.5,0.0,Cash,Completed
+ORD-10473,2025-05-04,CUST-031,Islamabad,P014,Moisturizer,Beauty,2.0,1650.0,0.05,Card,Cancelled
+ORD-10474,2025-04-17,CUST-069,Faisalabad,P002,Keyboard,Electronics,4.0,2880.0,0.0,EasyPaisa,Completed
+ORD-10475,2025-07-14,CUST-084,Islamabad,P006,Desk Organizer,Stationery,5.0,1250.0,0.0,Cash,Returned
+ORD-10476,2025-06-24,CUST-081,Karachi,P012,Resistance Bands,Sports,1.0,1600.0,0.15,Bank Transfer,Cancelled
+ORD-10477,2025-04-23,CUST-007,Gujranwala,P002,Keyboard,Electronics,4.0,3360.0,0.15,Bank Transfer,Returned
+ORD-10478,2025-01-14,CUST-009,Islamabad,P002,Keyboard,Electronics,5.0,3200.0,0.2,JazzCash,Returned
+ORD-10479,2025-10-19,CUST-073,Faisalabad,P003,USB-C Hub,Electronics,1.0,5670.0,0.15,Bank Transfer,Returned
+ORD-10480,2025-12-24,CUST-038,Peshawar,P013,Face Wash,Beauty,2.0,819.0,0.0,Cash,Completed
+ORD-10481,2025-05-24,CUST-077,Rawalpindi,P010,Running Shoes,Sports,3.0,7200.0,0.05,Cash,Cancelled
+ORD-10482,2025-12-01,CUST-039,Peshawar,P014,Moisturizer,Beauty,,1732.5,0.0,Card,Cancelled
+ORD-10483,2025-04-04,CUST-034,Faisalabad,P012,Resistance Bands,Sports,3.0,1600.0,0.0,Cash,Completed
+ORD-10484,2025-07-21,CUST-038,Rawalpindi,P003,USB-C Hub,Electronics,4.0,5400.0,0.05,EasyPaisa,Completed
+ORD-10485,2025-10-14,CUST-045,Gujranwala,P015,Sunscreen,Beauty,2.0,1417.5,0.15,Bank Transfer,Completed
+ORD-10486,2025-07-23,CUST-016,Karachi,P013,Face Wash,Beauty,1.0,819.0,0.0,EasyPaisa,Completed
+ORD-10487,2025-12-06,CUST-085,Lahore,P005,Ballpoint Pens,Stationery,3.0,250.0,0.0,Card,Completed
+ORD-10488,2025-05-03,CUST-054,Karachi,P009,Coffee Mug,Home & Kitchen,2.0,550.0,0.15,EasyPaisa,Completed
+ORD-10489,2025-04-05,CUST-007,Multan,P001,Wireless Mouse,Electronics,1.0,1800.0,0.1,Card,Completed
+ORD-10490,2025-04-05,CUST-017,Islamabad,P002,Keyboard,Electronics,2.0,3200.0,0.2,Card,Cancelled
+ORD-10491,2025-06-11,CUST-043,Karachi,P002,Keyboard,Electronics,3.0,3200.0,0.05,JazzCash,Completed
+ORD-10492,2025-04-25,CUST-079,Islamabad,P002,Keyboard,Electronics,4.0,3360.0,0.2,Bank Transfer,Completed
+ORD-10493,2025-02-11,CUST-053,Gujranwala,P012,Resistance Bands,Sports,5.0,1440.0,0.2,JazzCash,Cancelled
+ORD-10494,2025-09-07,CUST-041,Multan,P015,Sunscreen,Beauty,2.0,1350.0,0.0,Bank Transfer,Completed
+ORD-10495,2025-04-03,CUST-043,Multan,P005,Ballpoint Pens,Stationery,1.0,262.5,0.1,JazzCash,Cancelled
+ORD-10496,2025-02-07,CUST-031,Faisalabad,P002,Keyboard,Electronics,3.0,2880.0,0.0,JazzCash,Completed
+ORD-10497,2025-10-01,CUST-037,Gujranwala,P007,Water Bottle,Home & Kitchen,1.0,997.5,0.15,Bank Transfer,Cancelled
+ORD-10498,2025-11-14,CUST-049,Rawalpindi,P003,USB-C Hub,Electronics,5.0,5670.0,0.0,Card,Completed
+ORD-10499,2025-04-03,CUST-060,Rawalpindi,P013,Face Wash,Beauty,1.0,780.0,0.05,Cash,Completed
+ORD-10500,2025-05-01,CUST-035,Karachi,P003,USB-C Hub,Electronics,4.0,5400.0,0.0,Card,Completed
+ORD-10501,2025-05-19,CUST-027,Faisalabad,P011,Yoga Mat,Sports,3.0,2940.0,0.2,Card,Completed
+ORD-10502,2025-11-29,CUST-072,Islamabad,P015,Sunscreen,Beauty,2.0,1215.0,0.1,Cash,Cancelled
+ORD-10503,2025-12-27,CUST-073,Rawalpindi,P011,Yoga Mat,Sports,3.0,2800.0,0.2,Cash,Completed
+ORD-10504,2025-09-15,CUST-068,Lahore,P002,Keyboard,Electronics,3.0,2880.0,0.1,Bank Transfer,Completed
+ORD-10505,2025-08-18,CUST-084,Faisalabad,P002,Keyboard,Electronics,4.0,,0.2,Bank Transfer,Completed
+ORD-10506,2025-01-17,CUST-004,Lahore,P012,Resistance Bands,Sports,3.0,1600.0,0.2,Bank Transfer,Cancelled
+ORD-10507,2025-08-25,CUST-044,Rawalpindi,P011,Yoga Mat,Sports,2.0,2940.0,0.0,Cash,Returned
+ORD-10508,2025-04-23,CUST-019,Multan,P003,USB-C Hub,Electronics,5.0,5400.0,0.05,Cash,Returned
+ORD-10509,2025-03-14,CUST-025,Islamabad,P008,Storage Box,Home & Kitchen,5.0,1522.5,0.15,Cash,Completed
+ORD-10510,2025-03-20,CUST-028,Faisalabad,P015,Sunscreen,Beauty,1.0,1350.0,0.15,Card,Completed
+ORD-10511,2025-01-16,CUST-081,Lahore,P011,Yoga Mat,Sports,1.0,2800.0,0.0,EasyPaisa,Completed
+ORD-10512,2025-03-18,CUST-043,Karachi,P011,Yoga Mat,Sports,5.0,2800.0,0.2,Bank Transfer,Returned
+ORD-10513,2025-07-10,CUST-051,Rawalpindi,P014,Moisturizer,Beauty,3.0,1650.0,0.0,Card,Returned
+ORD-10514,2025-10-29,CUST-008,Rawalpindi,P009,Coffee Mug,Home & Kitchen,4.0,550.0,0.2,Card,Cancelled
+ORD-10515,2025-04-15,CUST-025,Karachi,P001,Wireless Mouse,Electronics,1.0,1800.0,0.15,Cash,Completed
+ORD-10516,2025-11-04,CUST-003,Gujranwala,P012,Resistance Bands,Sports,5.0,1600.0,0.05,Cash,Cancelled
+ORD-10517,2025-04-06,CUST-036,Gujranwala,P001,Wireless Mouse,Electronics,3.0,1620.0,0.15,Card,Completed
+ORD-10518,2025-06-03,CUST-045,Peshawar,P004,Notebook Set,Stationery,1.0,585.0,0.0,Bank Transfer,Completed
+ORD-10519,2025-02-20,CUST-067,Rawalpindi,P003,USB-C Hub,Electronics,2.0,5670.0,0.0,Cash,Completed
+ORD-10520,2025-07-22,CUST-052,Multan,P011,Yoga Mat,Sports,2.0,2940.0,0.2,Cash,Completed
+ORD-10521,2025-09-23,CUST-086,lahore,P005,Ballpoint Pens,Stationery,1.0,225.0,0.15,Cash,Completed
+ORD-10522,2025-09-16,CUST-076,Lahore,P011,Yoga Mat,Sports,1.0,2940.0,0.0,Cash,Cancelled
+ORD-10523,2025-11-08,CUST-067,Karachi,P005,Ballpoint Pens,Stationery,1.0,225.0,0.2,Bank Transfer,Completed
+ORD-10524,2025-11-20,CUST-045,Lahore,P009,Coffee Mug,Home & Kitchen,4.0,550.0,0.05,Bank Transfer,Returned
+ORD-10525,2025-10-31,CUST-086,Lahore,P014,Moisturizer,Beauty,5.0,1485.0,0.05,Card,Completed
+ORD-10526,2025-12-02,CUST-062,Peshawar,P008,Storage Box,Home & Kitchen,1.0,1305.0,0.2,Card,Completed
+ORD-10527,2025-07-10,CUST-024,Rawalpindi,P013,Face Wash,Beauty,3.0,780.0,0.0,Bank Transfer,Completed
+ORD-10528,2025-11-12,CUST-033,Lahore,P005,Ballpoint Pens,Stationery,4.0,262.5,0.0,Cash,Completed
+ORD-10529,2025-02-18,CUST-041,Multan,P013,Face Wash,Beauty,5.0,780.0,0.0,EasyPaisa,Completed
+ORD-10530,2025-07-28,CUST-001,Lahore,P013,Face Wash,Beauty,1.0,780.0,0.0,Cash,Completed
+ORD-10531,2025-01-17,CUST-031,Multan,P005,Ballpoint Pens,Stationery,4.0,262.5,0.0,Cash,Completed
+ORD-10532,2025-11-05,CUST-033,Faisalabad,P002,Keyboard,Electronics,5.0,3200.0,0.1,Cash,Returned
+ORD-10533,2025-04-05,CUST-036,Karachi,P005,Ballpoint Pens,Stationery,3.0,262.5,0.0,Bank Transfer,Cancelled
+ORD-10534,2025-03-22,CUST-072,Multan,P002,Keyboard,Electronics,2.0,3200.0,0.1,JazzCash,Completed
+ORD-10535,2025-04-01,CUST-048,Faisalabad,P008,Storage Box,Home & Kitchen,5.0,1522.5,0.05,JazzCash,Completed
+ORD-10536,2025-07-16,CUST-062,Gujranwala,P005,Ballpoint Pens,Stationery,5.0,250.0,0.0,EasyPaisa,Cancelled
+ORD-10537,2025-06-27,CUST-032,Lahore,P008,Storage Box,Home & Kitchen,3.0,1450.0,0.0,Card,Cancelled
+ORD-10538,2025-11-07,CUST-084,Peshawar,P004,Notebook Set,Stationery,5.0,585.0,0.1,Cash,Completed
+ORD-10539,2025-02-05,CUST-014,Gujranwala,P002,Keyboard,Electronics,1.0,3360.0,0.15,EasyPaisa,Cancelled
+ORD-10540,2025-11-05,CUST-057,Islamabad,P011,Yoga Mat,Sports,1.0,2520.0,0.0,JazzCash,Returned
+ORD-10541,2025-08-02,CUST-043,Islamabad,P001,Wireless Mouse,Electronics,5.0,1800.0,0.2,EasyPaisa,Cancelled
+ORD-10542,2025-03-11,,Rawalpindi,P011,Yoga Mat,Sports,1.0,2520.0,0.2,Bank Transfer,Completed
+ORD-10543,2025-02-28,CUST-001,Karachi,P011,Yoga Mat,Sports,4.0,2940.0,0.05,JazzCash,Completed
+ORD-10544,2025-01-22,CUST-005,Rawalpindi,P009,Coffee Mug,Home & Kitchen,2.0,577.5,0.05,Bank Transfer,Completed
+ORD-10545,2025-08-28,CUST-056,Multan,P013,Face Wash,Beauty,3.0,780.0,0.15,Cash,Completed
+ORD-10546,2025-12-12,CUST-049,Lahore,P010,Running Shoes,Sports,2.0,7560.0,0.15,JazzCash,Completed
+ORD-10547,not-a-date,CUST-088,Peshawar,P012,Resistance Bands,Sports,1.0,1600.0,0.0,Bank Transfer,Cancelled
+ORD-10548,2025-03-08,CUST-020,Lahore,P011,Yoga Mat,Sports,2.0,2800.0,0.0,JazzCash,Completed
+ORD-10549,2025-08-04,CUST-027,Islamabad,P014,Moisturizer,Beauty,5.0,1650.0,0.05,JazzCash,Cancelled
+ORD-10550,2025-05-16,CUST-047,Islamabad,P007,Water Bottle,Home & Kitchen,5.0,855.0,0.2,Card,Returned
+ORD-10551,2025-03-12,CUST-015,Islamabad,P005,Ballpoint Pens,Stationery,1.0,225.0,0.15,EasyPaisa,Completed
+ORD-10552,2025-12-11,CUST-010,Karachi,P015,Sunscreen,Beauty,2.0,1417.5,0.1,Card,Completed
+ORD-10553,2025-10-09,CUST-073,Peshawar,P001,Wireless Mouse,Electronics,5.0,1800.0,0.2,Bank Transfer,Cancelled
+ORD-10554,2025-03-10,CUST-037,Karachi,P002,Keyboard,Electronics,5.0,3360.0,0.1,Cash,Cancelled
+ORD-10555,2025-07-10,CUST-090,Faisalabad,P015,Sunscreen,Beauty,5.0,1417.5,0.2,JazzCash,Completed
+ORD-10556,2025-03-14,CUST-004,Multan,P004,Notebook Set,Stationery,4.0,650.0,0.15,JazzCash,Completed
+ORD-10557,2025-04-12,CUST-077,Lahore,P012,Resistance Bands,Sports,5.0,1680.0,0.05,Bank Transfer,Returned
+ORD-10558,2025-10-12,CUST-058,Gujranwala,P015,Sunscreen,Beauty,4.0,1215.0,0.2,Bank Transfer,Completed
+ORD-10559,2025-02-05,CUST-064,Karachi,P011,Yoga Mat,Sports,3.0,2520.0,0.2,Card,Completed
+ORD-10560,2025-11-30,CUST-050,Gujranwala,P013,Face Wash,Beauty,2.0,702.0,0.0,Card,Completed
+ORD-10561,2025-05-15,CUST-070,Multan,P006,Desk Organizer,Stationery,1.0,1250.0,0.05,Card,Returned
+ORD-10562,2025-01-19,CUST-082,Gujranwala,P014,Moisturizer,Beauty,3.0,1732.5,0.0,EasyPaisa,Cancelled
+ORD-10563,2025-08-22,CUST-047,Multan,P004,Notebook Set,Stationery,4.0,650.0,0.1,Bank Transfer,Completed
+ORD-10564,2025-03-05,CUST-071,Karachi,P001,Wireless Mouse,Electronics,1.0,1890.0,0.2,Card,Completed
+ORD-10565,2025-07-05,CUST-001,Rawalpindi,P005,Ballpoint Pens,Stationery,1.0,250.0,0.15,Bank Transfer,Completed
+ORD-10566,2025-11-20,CUST-034,Lahore,P006,Desk Organizer,Stationery,5.0,,0.0,EasyPaisa,Completed
+ORD-10567,2025-04-18,CUST-050,Faisalabad,P007,Water Bottle,Home & Kitchen,1.0,950.0,0.1,Card,Cancelled
+ORD-10568,2025-04-29,CUST-026,Faisalabad,P008,Storage Box,Home & Kitchen,1.0,1522.5,0.1,JazzCash,Cancelled
+ORD-10569,2025-06-19,CUST-079,Lahore,P015,Sunscreen,Beauty,1.0,1350.0,0.0,EasyPaisa,Completed
+ORD-10570,2025-04-01,CUST-047,Multan,P010,Running Shoes,Sports,4.0,6480.0,0.15,JazzCash,Returned
+ORD-10571,2025-02-06,CUST-042,Multan,P005,Ballpoint Pens,Stationery,2.0,225.0,0.05,Cash,Returned
+ORD-10572,2025-08-22,CUST-068,Rawalpindi,P015,Sunscreen,Beauty,2.0,1350.0,0.0,,Completed
+ORD-10573,2025-09-12,CUST-073,Peshawar,P006,Desk Organizer,Stationery,3.0,1250.0,0.0,EasyPaisa,Completed
+ORD-10574,2025-04-15,CUST-076,Islamabad,P002,Keyboard,Electronics,1.0,3200.0,0.2,Cash,Completed
+ORD-10575,2025-06-12,CUST-079,Islamabad,P011,Yoga Mat,Sports,1.0,2520.0,0.05,Card,Completed
+ORD-10576,2025-11-08,CUST-070,Multan,P003,USB-C Hub,Electronics,2.0,4860.0,0.05,EasyPaisa,Completed
+ORD-10577,2025-04-18,CUST-066,Gujranwala,P012,Resistance Bands,Sports,4.0,1440.0,0.2,Bank Transfer,Returned
+ORD-10578,2025-07-27,CUST-086,Rawalpindi,P002,Keyboard,Electronics,2.0,3360.0,0.05,Bank Transfer,Cancelled
+ORD-10579,2025-10-03,CUST-045,Lahore,P013,Face Wash,Beauty,4.0,780.0,0.1,Cash,Returned
+ORD-10580,2025-10-15,CUST-060,Lahore,P003,USB-C Hub,Electronics,3.0,5670.0,0.1,Card,Completed
+ORD-10581,2025-06-29,CUST-029,Peshawar,P005,Ballpoint Pens,Stationery,5.0,262.5,0.2,Cash,Completed
+ORD-10582,2025-05-18,CUST-078,Faisalabad,P005,Ballpoint Pens,Stationery,1.0,250.0,0.05,EasyPaisa,Completed
+ORD-10583,2025-12-17,CUST-032,Karachi,P014,Moisturizer,Beauty,5.0,1732.5,0.05,Bank Transfer,Cancelled
+ORD-10584,2025-09-18,CUST-051,Islamabad,P014,Moisturizer,Beauty,5.0,1485.0,0.1,Card,Completed
+ORD-10585,2025-01-31,CUST-053,Rawalpindi,P001,Wireless Mouse,Electronics,2.0,1620.0,0.15,EasyPaisa,Cancelled
+ORD-10586,2025-03-09,CUST-039,Karachi,P014,Moisturizer,Beauty,3.0,1650.0,0.1,Bank Transfer,Completed
+ORD-10587,2025-03-14,CUST-065,Multan,P010,Running Shoes,Sports,2.0,7560.0,0.0,EasyPaisa,Completed
+ORD-10588,2025-04-07,CUST-027,Peshawar,P012,Resistance Bands,Sports,5.0,1600.0,0.1,EasyPaisa,Cancelled
+ORD-10589,2025-08-31,,Peshawar,P006,Desk Organizer,Stationery,4.0,1312.5,0.2,Cash,Completed
+ORD-10590,2025-05-24,CUST-068,Lahore,P015,Sunscreen,Beauty,1.0,1215.0,0.05,,Returned
+ORD-10591,2025-07-26,CUST-049,Lahore,P014,Moisturizer,Beauty,5.0,1650.0,0.0,JazzCash,Completed
+ORD-10592,2025-11-30,CUST-036,Faisalabad,P004,Notebook Set,Stationery,2.0,650.0,0.2,Card,Completed
+ORD-10593,2025-11-23,CUST-055,Lahore,P003,USB-C Hub,Electronics,3.0,5670.0,0.1,JazzCash,Completed
+ORD-10594,2025-07-26,CUST-041,Islamabad,P009,Coffee Mug,Home & Kitchen,2.0,550.0,0.05,Card,Completed
+ORD-10595,2025-07-02,CUST-011,Rawalpindi,P008,Storage Box,Home & Kitchen,3.0,1450.0,0.0,JazzCash,Completed
+ORD-10596,2025-08-27,CUST-073,lahore,P013,Face Wash,Beauty,4.0,702.0,0.15,EasyPaisa,Completed
+ORD-10597,2025-04-15,CUST-071,Multan,P005,Ballpoint Pens,Stationery,1.0,250.0,0.0,Card,Completed
+ORD-10598,2025-06-27,CUST-047,Karachi,P004,Notebook Set,Stationery,4.0,585.0,0.15,EasyPaisa,Completed
+ORD-10599,2025-12-27,CUST-045,Peshawar,P006,Desk Organizer,Stationery,2.0,1312.5,0.0,Cash,Completed
+ORD-10600,2025-12-11,CUST-036,Gujranwala,P003,USB-C Hub,Electronics,5.0,5400.0,0.15,EasyPaisa,Completed
+ORD-10601,2025-05-22,CUST-066,Peshawar,P013,Face Wash,Beauty,4.0,780.0,0.15,,Completed
+ORD-10602,2025-04-24,CUST-021,Islamabad,P011,Yoga Mat,Sports,1.0,,0.05,Cash,Cancelled
+ORD-10603,2025-04-01,CUST-028,Karachi,P009,Coffee Mug,Home & Kitchen,4.0,577.5,0.15,EasyPaisa,Completed
+ORD-10604,2025-05-02,CUST-046,Faisalabad,P003,USB-C Hub,Electronics,1.0,5670.0,0.2,EasyPaisa,Completed
+ORD-10605,2025-07-06,CUST-084,Peshawar,P007,Water Bottle,Home & Kitchen,1.0,950.0,0.05,Card,Completed
+ORD-10606,2025-04-03,CUST-067,Peshawar,P006,Desk Organizer,Stationery,4.0,1250.0,0.05,JazzCash,Completed
+ORD-10607,2025-11-22,CUST-081,Karachi ,P005,Ballpoint Pens,Stationery,1.0,250.0,0.0,JazzCash,Completed
+ORD-10608,2025-07-21,CUST-025,Faisalabad,P005,Ballpoint Pens,Stationery,1.0,225.0,0.1,Bank Transfer,Completed
+ORD-10609,2025-09-15,CUST-009,Faisalabad,P012,Resistance Bands,Sports,1.0,1600.0,0.0,EasyPaisa,Completed
+ORD-10610,2025-03-19,CUST-069,Peshawar,P002,Keyboard,Electronics,2.0,3200.0,0.2,Card,Completed
+ORD-10611,2025-03-10,CUST-070,Rawalpindi,P008,Storage Box,Home & Kitchen,4.0,1305.0,0.0,EasyPaisa,Returned
+ORD-10612,2025-07-14,CUST-076,Lahore,P001,Wireless Mouse,Electronics,5.0,1620.0,0.0,Cash,Returned
+ORD-10613,2025-11-14,CUST-046,Multan,P009,Coffee Mug,Home & Kitchen,5.0,577.5,0.05,Bank Transfer,Cancelled
+ORD-10614,2025-10-02,CUST-083,Faisalabad,P011,Yoga Mat,Sports,3.0,2800.0,0.1,Cash,Completed
+ORD-10615,2025-12-11,CUST-046,Rawalpindi,P009,Coffee Mug,Home & Kitchen,2.0,495.0,0.0,Cash,Completed
+ORD-10616,2025-04-14,CUST-015,Islamabad,P011,Yoga Mat,Sports,1.0,2940.0,0.2,JazzCash,Cancelled
+ORD-10617,2025-10-03,CUST-055,Islamabad,P004,Notebook Set,Stationery,5.0,585.0,0.0,JazzCash,Completed
+ORD-10618,2025-07-12,CUST-013,Rawalpindi,P010,Running Shoes,Sports,3.0,6480.0,0.1,Cash,Completed
+ORD-10619,2025-05-09,CUST-029,Karachi,P012,Resistance Bands,Sports,1.0,1600.0,0.0,JazzCash,Completed
+ORD-10620,2025-07-31,CUST-085,Rawalpindi,P011,Yoga Mat,Sports,2.0,2800.0,0.15,Card,Completed
+ORD-10621,2025-09-28,CUST-021,Gujranwala,P009,Coffee Mug,Home & Kitchen,5.0,495.0,0.15,EasyPaisa,Completed
+ORD-10622,2025-11-07,CUST-032,Faisalabad,P013,Face Wash,Beauty,1.0,780.0,0.1,JazzCash,Completed
+ORD-10623,2025-06-29,CUST-055,Lahore,P012,Resistance Bands,Sports,4.0,1680.0,0.05,Bank Transfer,Completed
+ORD-10624,2025-08-22,CUST-030,Faisalabad,P009,Coffee Mug,Home & Kitchen,4.0,550.0,0.0,JazzCash,Completed
+ORD-10625,2025-01-17,CUST-019,Peshawar,P012,Resistance Bands,Sports,1.0,1440.0,0.2,Card,Completed
+ORD-10626,2025-06-23,CUST-051,Faisalabad,P011,Yoga Mat,Sports,3.0,2800.0,0.0,Card,Completed
+ORD-10627,2025-12-04,CUST-068,Islamabad,P012,Resistance Bands,Sports,3.0,1600.0,0.0,JazzCash,Completed
+ORD-10628,2025-12-22,CUST-089,Gujranwala,P011,Yoga Mat,Sports,4.0,2940.0,0.0,JazzCash,Cancelled
+ORD-10629,2025-10-24,CUST-047,Multan,P001,Wireless Mouse,Electronics,3.0,1620.0,0.0,Cash,Returned
+ORD-10630,2025-03-15,CUST-075,Peshawar,P004,Notebook Set,Stationery,5.0,650.0,0.05,JazzCash,Completed
+ORD-10631,2025-04-09,CUST-048,Islamabad,P006,Desk Organizer,Stationery,4.0,1250.0,0.2,JazzCash,Completed
+ORD-10632,2025-07-18,CUST-040,Peshawar,P001,Wireless Mouse,Electronics,1.0,1800.0,0.15,Card,Completed
+ORD-10633,2025-03-26,CUST-053,Lahore,P012,Resistance Bands,Sports,2.0,1600.0,0.05,Cash,Cancelled
+ORD-10634,2025-04-12,CUST-039,Islamabad,P012,Resistance Bands,Sports,4.0,1600.0,0.05,EasyPaisa,Completed
+ORD-10635,2025-12-09,CUST-042,Multan,P007,Water Bottle,Home & Kitchen,2.0,997.5,0.1,EasyPaisa,Completed
+ORD-10636,2025-12-24,CUST-038,Multan,P007,Water Bottle,Home & Kitchen,1.0,855.0,0.15,Bank Transfer,Completed
+ORD-10637,2025-06-01,CUST-076,Lahore,P004,Notebook Set,Stationery,2.0,585.0,0.1,EasyPaisa,Completed
+ORD-10638,2025-03-23,CUST-004,Peshawar,P007,Water Bottle,Home & Kitchen,4.0,950.0,0.1,JazzCash,Cancelled
+ORD-10639,2025-04-02,CUST-083,Lahore,P014,Moisturizer,Beauty,3.0,1485.0,0.0,EasyPaisa,Completed
+ORD-10640,2025-05-01,CUST-048,Faisalabad,P004,Notebook Set,Stationery,1.0,585.0,0.0,Cash,Completed
+ORD-10641,2025-07-20,,Islamabad,P002,Keyboard,Electronics,1.0,2880.0,0.0,Bank Transfer,Completed
+ORD-10642,2025-06-29,CUST-085,Rawalpindi,P009,Coffee Mug,Home & Kitchen,2.0,550.0,0.0,Cash,Completed
+ORD-10643,2025-12-25,CUST-052,Faisalabad,P011,Yoga Mat,Sports,1.0,2520.0,0.0,JazzCash,Cancelled
+ORD-10644,2025-05-24,CUST-088,Rawalpindi,P010,Running Shoes,Sports,3.0,7200.0,0.2,Card,Completed
+ORD-10645,2025-05-21,CUST-040,Gujranwala,P014,Moisturizer,Beauty,4.0,1650.0,0.1,Card,Completed
+ORD-10646,2025-09-01,CUST-059,Islamabad,P003,USB-C Hub,Electronics,3.0,5400.0,0.2,EasyPaisa,Completed
+ORD-10647,2025-07-27,CUST-056,Multan,P009,Coffee Mug,Home & Kitchen,1.0,577.5,0.05,EasyPaisa,Completed
+ORD-10648,2025-02-13,CUST-042,Islamabad,P003,USB-C Hub,Electronics,3.0,4860.0,0.1,Cash,Returned
+ORD-10649,2025-01-13,CUST-026,Multan,P013,Face Wash,Beauty,2.0,819.0,0.0,JazzCash,Cancelled
+ORD-10650,2025-02-14,CUST-061,Faisalabad,P015,Sunscreen,Beauty,3.0,1417.5,0.0,Cash,Completed
+ORD-10013,2025-06-17,CUST-046,Faisalabad,P008,Storage Box,Home & Kitchen,4.0,1522.5,0.0,Cash,Completed
+ORD-10050,2025-04-25,CUST-087,Faisalabad,P005,Ballpoint Pens,Stationery,1.0,250.0,0.05,Card,Completed
+ORD-10104,2025-04-04,CUST-059,Rawalpindi,P005,Ballpoint Pens,Stationery,3.0,250.0,0.1,EasyPaisa,Returned
+ORD-10251,2025-09-08,CUST-072,Multan,P008,Storage Box,Home & Kitchen,3.0,1450.0,0.0,Cash,Completed

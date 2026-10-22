@@ -1,0 +1,16 @@
+Product_ID,Product_Name,Category,List_Price_PKR,Supplier
+P001,Wireless Mouse,Electronics,1800,PakTech Supplies
+P002,Keyboard,Electronics,3200,Metro Wholesale
+P003,USB-C Hub,Electronics,5400,Metro Wholesale
+P004,Notebook Set,Stationery,650,PakTech Supplies
+P005,Ballpoint Pens,Stationery,250,Prime Traders
+P006,Desk Organizer,Stationery,1250,Metro Wholesale
+P007,Water Bottle,Home & Kitchen,950,PakTech Supplies
+P008,Storage Box,Home & Kitchen,1450,Metro Wholesale
+P009,Coffee Mug,Home & Kitchen,550,Urban Goods
+P010,Running Shoes,Sports,7200,Urban Goods
+P011,Yoga Mat,Sports,2800,Prime Traders
+P012,Resistance Bands,Sports,1600,Metro Wholesale
+P013,Face Wash,Beauty,780,Urban Goods
+P014,Moisturizer,Beauty,1650,PakTech Supplies
+P015,Sunscreen,Beauty,1350,Prime Traders
